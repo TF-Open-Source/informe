@@ -471,90 +471,140 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
-**Segmento 1:** Empresas de Manufactura.  
-<img src="imgs/user-personas/user-persona.Empresa-Manufacturera.png" alt="User Persona" style="width:100%;">
+**Segmento 1:** Obrero de Constructura.  
+<img src="./assets/cap-2/user-personas/Carlos-Morales-Obrero.png" alt="User Persona" style="width:100%;">
 
-**Segmento 2:** Empresas de Logística y Transporte.
-<img src="imgs/user-personas/user-persona.Empresa-Logistica.png" alt="User Persona" style="width:100%;">
+**Segmento 2:** Jefe de Obras de Constructura.
+<img src="./assets/cap-2/user-personas/Maria-Fernandez-Jefe-de-Obras.png" alt="User Persona" style="width:100%;">
 
 ### **2.3.2. User Task Matrix**
 
-User Persona: Daniel Gonzalez
 
-| Tareas |    Objetivos de las tareas  | Soporte de EcoRoute |
-| :--: | :-----------: | :--: |
-|  Evaluar la eficiencia de proveedores   | Mejorar la calidad y eficiencia en la cadena de suministro.    |  Proporciona análisis detallados del rendimiento y sostenibilidad de proveedores.    |
-|  Supervisar operaciones logísticas      | Optimizar rutas y tiempos de entrega para reducir costos.   |   Ofrece monitoreo en tiempo real de las operaciones con sugerencias para mejoras    |
-| Integrar sistemas antiguos  | Asegurar que todas las plataformas logísticas trabajen en conjunto.    |     EcoRoute se integra fácilmente con sistemas existentes para unificar datos       |
-|  Analizar impacto ambiental    |  Reducir el impacto ambiental de la cadena de suministro.    |    Proporciona reportes claros sobre la huella de carbono y otras métricas ambientales      |
-|  Tomar decisiones basadas en datos    |  Aumentar la eficiencia y reducir costos operativos.   |   EcoRoute proporciona datos en tiempo real y visualizaciones intuitivas para tomar decisiones informadas.       |
 
-User Persona: Laura Martinez
+# User Task Matrix
 
-| Tareas |    Objetivos de las tareas  | Soporte de EcoRoute |
-| :--: | :-----------: | :--: |
-|  Medir impacto ambiental de proveedores   | Cumplir con estándares de sostenibilidad y mejorar la cadena de valor.    |  EcoRoute evalúa y reporta el impacto ambiental de cada proveedor.   |
-|  Generar reportes de sostenibilidad      | Facilitar la comunicación interna y externa sobre logros ambientales.   |   Ofrece plantillas y datos integrados para la elaboración de informes claros y precisos    |
-| Colaborar con otros departamentos | Alinear estrategias de sostenibilidad con las operaciones generales.   |     Integra datos de diferentes áreas para facilitar la colaboración y el alineamiento de objetivos.     |
-| Implementar estrategias de reducción de carbono    |  Disminuir la huella ambiental y cumplir metas de reducción de CO2.    |  Proporciona recomendaciones específicas para reducir emisiones y optimizar procesos.     |
-|  Monitorear cumplimiento normativo    |  Asegurar que la empresa cumple con las regulaciones ambientales.   |  EcoRoute ofrece alertas y reportes de cumplimiento regulatorio en tiempo real.    |
+## Usuario: Carlos Morales (Obrero)
+
+| Tareas                                    | Objetivos de las tareas                                          | Soporte de BuildPlanning                                                                                         |
+| :----------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
+| Ver lista de tareas asignadas             | Conocer qué debe hacer cada día y en qué orden                   | Panel principal con notificaciones push y lista ordenada por fecha y prioridad                                    |
+| Actualizar estado de una tarea            | Informar progreso real (iniciado, en curso, completado)           | Botones rápidos para cambiar estado y sincronización automática, incluso en modo offline                         |
+| Reportar incidencia o bloqueo en obra      | Alertar al jefe sobre problemas que impidan continuar             | Formulario integrado para adjuntar fotos, comentarios y ubicación GPS; notifica inmediatamente al Jefe de Obras  |
+| Consultar detalles e instrucciones         | Asegurar que entiende bien los requisitos y normas de seguridad   | Fichas de tarea con descripciones, planos y manuales descargables para consulta sin conexión                     |
+| Comunicar dudas o comentarios              | Mantener flujo de comunicación y resolver dudas al instante       | Chat interno o sección de comentarios en cada tarea con alertas al Jefe de Obras                                 |
+
+## Usuario: María Fernández (Jefe de Obras)
+
+| Tareas                                      | Objetivos de las tareas                                        | Soporte de BuildPlanning                                                                                              |
+| :------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------- |
+| Asignar tareas a obreros                    | Distribuir trabajo de forma equilibrada y según habilidades    | Interfaz drag‑&‑drop para crear y asignar tareas a cada obrero con fechas, prioridad y recursos                       |
+| Reprogramar o actualizar plazos             | Ajustar cronograma ante imprevistos y evitar retrasos          | Calendario interactivo que permite mover tareas y notifica automáticamente a los obreros afectados                     |
+| Eliminar o archivar tareas completadas      | Mantener el tablero limpio y enfocarse en lo pendiente         | Opción de “archivar” con registro de métricas (tiempo invertido, fotos finales) y filtros para ver histórico            |
+| Monitorear progreso en tiempo real          | Tener visibilidad constante del avance y detectar cuellos       | Dashboard con indicadores de estado (completado/en curso/incidencias) y mapa de obra con ubicación de cada tarea       |
+| Generar reportes de avance y cumplimiento   | Facilitar la toma de decisiones y reportar a la gerencia       | Generador automático de informes PDF o Excel con gráficas de progreso, tiempos de ejecución y alertas de desviación    |
 
 
 ### **2.3.3. User Journey Mapping**
+**Registration (Registro):**  
+Why would they trust us?  
+- Investigan sobre BuildPlanning antes de registrarse.  
+- Leen recomendaciones de otros obreros o jefes de obra que ya la usan.  
+- Verifican que la plataforma cuenta con respaldo de su empresa o supervisor directo.
 
-<img src="imgs/JourneyMapping.png" alt="Journey Mapping" style="width:100%;">
+**Onboarding and first use (Incorporación y primer uso):**  
+How can they feel successful?  
+- Completan un registro simple con acceso a través de su correo o ID de empleado.  
+- La interfaz inicial les da una visión clara de sus tareas o capacidades de gestión.  
+- Reciben una guía rápida sobre cómo asignar tareas (jefe) o revisar asignaciones (obrero).
+
+**Daily Use (Uso diario):**  
+How can they maintain engagement?  
+- Visualizan el progreso de tareas en tiempo real.  
+- Reciben recordatorios o actualizaciones de tareas importantes.  
+- Pueden reportar incidencias o pedir ayuda desde la app fácilmente.
+
+**Problem Solving (Resolución de problemas):**  
+How can we help them overcome frustration?  
+- El soporte técnico está disponible con solo un clic dentro de la plataforma.  
+- La documentación o FAQ es accesible e incluye ejemplos claros.  
+- Pueden comunicarse con su equipo directamente desde la aplicación.
+
+**Sharing (Compartir o recomendar):**  
+Why would they invite others?  
+- Jefes de obra ven mejoras en la organización y delegación.  
+- Obreros sienten que su trabajo es más claro y estructurado.  
+- La plataforma ofrece beneficios como reducción de errores o ahorro de tiempo que desean compartir con otros equipos o empresas.
+
 
 ### **2.3.4. Empathy Mapping**
-**Segmento 1:** Empresas de Manufactura.  
-<img src="imgs/empathy-map/manufactura.png" alt="User Persona" style="width:100%;">
+**Segmento 1:** Obrero.  
+<img src="./assets/cap-2/empathy-maps/Obrero.png" alt="User Persona" style="width:100%;">
 
-**Segmento 2:** Empresas de Logística y Transporte.
-<img src="imgs/empathy-map/transporte.png" alt="User Persona" style="width:100%;">
+**Segmento 2:** Jefe de Obras.
+<img src="./assets/cap-2/empathy-maps/Jefe-de-Obras.png" alt="User Persona" style="width:100%;">
 
 ### **2.3.5. As-is Scenario Mapping**
 
-**Segmento : Empresa manufactura**
+## Segmento: Obrero
+**Escenario:** Carlos inicia su jornada laboral en la obra y necesita saber exactamente qué tareas debe realizar y cómo priorizarlas.
 
-<img src="imgs/ScenarioMapping1.png" alt="As-is Scenario Mapping 1" style="width:100%;">
+| Fases     | Fase 1                                | Fase 2                                   | Fase 3                                         | Fase 4                                     |
+|-----------|----------------------------------------|-------------------------------------------|------------------------------------------------|---------------------------------------------|
+| **Doing** | Llega a la obra y espera instrucciones | Recibe indicaciones orales del jefe       | Realiza tareas con dudas sobre prioridades     | Intenta consultar a compañeros si surgen problemas |
+| **Thinking** | “¿Qué tengo que hacer hoy?”            | “¿Esto que me dijeron es lo más urgente?” | “¿Estoy haciendo esto bien o me estoy equivocando?” | “¿A quién le digo si algo sale mal?”         |
+| **Feeling** | Confundido por la falta de claridad   | Inseguro sobre lo que debe priorizar     | Frustrado si hay cambios inesperados           | Ansioso si hay errores que no puede resolver |
 
-**Segmento: Empresa de Logística**
 
-<img src="imgs/ScenarioMapping2.png" alt="As-is Scenario Mapping 2" style="width:100%;">
+## Segmento: Jefe de Obras
+**Escenario:** María debe planificar el trabajo de la semana y asegurarse de que todo el equipo tenga claridad sobre sus responsabilidades.
+
+| Fases     | Fase 1                                        | Fase 2                                          | Fase 3                                                  | Fase 4                                           |
+|-----------|-----------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|
+| **Doing** | Revisa el avance del proyecto en documentos sueltos | Intenta organizar tareas para cada obrero manualmente | Da instrucciones verbales o por mensajes al personal        | Monitorea el avance con visitas y correos        |
+| **Thinking** | “¿Cómo hago para que todos estén bien coordinados?” | “¿Qué tareas puedo mover si hay retrasos?”         | “¿Me entendieron bien o habrá confusión?”                    | “¿Cómo justifico este retraso frente a la gerencia?” |
+| **Feeling** | Presionada por el tiempo y la planificación  | Estresada por la dificultad de reasignar tareas  | Frustrada por errores o confusión en el equipo              | Agobiada por la carga de reportes manuales        |
+
 
 ## **2.4. Ubiquitous Language**
 
-**Supply Chain (Cadena de Suministro)**
-- Conjunto de procesos, operaciones y proveedores involucrados en la producción y distribución de productos desde el origen hasta el cliente final.
+**Task Scheduling (Programación de Tareas)**  
+- Asignación estructurada de actividades operativas a los trabajadores, considerando prioridades, tiempos de ejecución y recursos disponibles.
 
-**Sustainability (Sostenibilidad)**
-- Prácticas que buscan minimizar el impacto ambiental y promover un uso responsable de los recursos dentro de las operaciones empresariales.
+**Workflow Visibility (Visibilidad del Flujo de Trabajo)**  
+- Capacidad para que todos los involucrados (obreros, jefes de obra, supervisores) vean en tiempo real el estado y progreso de las tareas asignadas.
 
-**Logistics Optimization (Optimización Logística)**
-- Mejora de la eficiencia en los procesos de planificación, ejecución y control de las operaciones logísticas, con el objetivo de reducir costos y tiempos.
+**Operational Efficiency (Eficiencia Operativa)**  
+- Optimización del uso de recursos humanos y materiales para cumplir con metas de producción en tiempo y forma.
 
-**Environmental Impact (Impacto Ambiental)**
-- Medición del efecto que tienen las actividades empresariales en el medio ambiente, incluyendo la huella de carbono y otras métricas de sostenibilidad.
+**Work Orders (Órdenes de Trabajo)**  
+- Instrucciones formales que detallan las tareas específicas a realizar, sus responsables, tiempos estimados y materiales requeridos.
 
-**ROI (Return on Investment) - Retorno de la Inversión**
-- Indicador financiero que mide la rentabilidad de una inversión en relación a los beneficios obtenidos.
+**Incident Reporting (Reporte de Incidentes)**  
+- Sistema para registrar eventos imprevistos o problemas durante la ejecución de tareas, con el fin de prevenir riesgos y mejorar procesos.
 
-**KPI (Key Performance Indicator) - Indicador Clave de Desempeño**
-- Métricas utilizadas para evaluar la eficiencia y efectividad de las operaciones en la cadena de suministro y la sostenibilidad.
+**Material Availability (Disponibilidad de Materiales)**  
+- Control de inventario y confirmación de que los recursos necesarios para cada tarea están listos antes de comenzar su ejecución.
 
-**Product Demonstration (Demostración de Producto)**
-- Presentación en la que se muestra cómo funciona un producto o servicio, destacando sus beneficios y características clave para los posibles clientes.
+**Shift Coordination (Coordinación de Turnos)**  
+- Organización de horarios y equipos de trabajo para garantizar la continuidad operativa sin sobrecargas ni interrupciones.
 
-**Team Training (Capacitación del Equipo)**
-- Formación y educación proporcionada a los empleados para garantizar el uso correcto y efectivo de nuevas herramientas o plataformas.
+**Real-Time Communication (Comunicación en Tiempo Real)**  
+- Intercambio instantáneo de información entre los diferentes niveles operativos para facilitar la toma de decisiones y resolver problemas rápidamente.
 
-**Stakeholders (Partes Interesadas)**
--  Individuos o entidades que tienen un interés directo en las operaciones y resultados de la empresa, como clientes, reguladores, y empleados.
-  
-**Process Optimization (Optimización de Procesos)**
-- Mejora continua de los procesos internos para aumentar la eficiencia y reducir costos y tiempos operativos.
+**Project Overview (Resumen del Proyecto)**  
+- Visualización general del estado del proyecto, tareas completadas, pendientes, desviaciones y métricas clave.
 
-**Data-Driven Decision Making (Toma de Decisiones Basada en Datos)**
--  Uso de datos y análisis cuantitativos para guiar la toma de decisiones empresariales, especialmente en áreas como logística y sostenibilidad.
+**Performance Metrics (Métricas de Desempeño)**  
+- Indicadores utilizados para medir la productividad y cumplimiento de tareas por parte del personal, como tiempo estimado vs. tiempo real o número de incidencias.
+
+**User Roles (Roles de Usuario)**  
+- Clasificación de los usuarios de la aplicación según su nivel de responsabilidad y acceso: obrero, jefe de obras, supervisor, etc.
+
+**Safety Compliance (Cumplimiento de Seguridad)**  
+- Aseguramiento de que todas las tareas se realizan bajo las normas establecidas para la seguridad laboral y operativa.
+
+**Resource Allocation (Asignación de Recursos)**  
+- Distribución eficiente de materiales, herramientas y personal según las necesidades del proyecto o tarea específica.
 
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
