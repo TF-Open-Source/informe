@@ -22,9 +22,9 @@
 | Miembro                                |    Código     |
 | :------------------------------------- | :-----------: |
 | Pachas Chavez, Alejandro Alberto     | U201917598    |
-|     |    |
-|            |     |
-|      |     |
+| Rengifo Lozano, David   | U202221022   |
+| Chavez Viera Joseph Manuel          | U202314019    |
+| Estrada Cajamune Abraham Andres    |  U202112164   |
 |               |      |
 |           |      |
 
