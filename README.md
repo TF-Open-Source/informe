@@ -203,8 +203,32 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+ <p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
+    <p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de construcción.</p>
+<p>
+    <h3>Solución y Propuesta Tecnológica</h3>
+    <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
+    <ul>
+        <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
+        <li><strong>Accesibilidad Multidispositivo:</strong> Interfaz intuitiva optimizada para uso tanto en oficina como en campo.</li>
+        <li><strong>Integración con Servicios Externos:</strong> Conexiones con herramientas de logística y geolocalización.</li>
+        <li><strong>Seguridad y Transparencia:</strong> Tecnologías open-source que garantizan estabilidad y escalabilidad.</li>
+    </ul>
+</p>
+<p>
+    <h3>Misión y Visión</h3>
+    <h4>Misión</h4>
+    <p>Facilitar la gestión de tareas en equipos de construcción mediante soluciones tecnológicas innovadoras que impulsen la productividad y la colaboración.</p>
+</p>
+    <h4>Visión</h4>
+    <p>Liderar la transformación digital en el sector de la construcción, ofreciendo herramientas confiables que optimicen los procesos y potencien la eficiencia operativa.</p>
 
-### **1.1.2. Perfiles de integrantes del equipo**
+
+
+### **1.1.2. Perfiles de integrantes del equipo**    
+
+<p>Los integrantes del equipo de <strong>IronGrid Systems</strong> son seis alumnos especializados en el desarrollo de soluciones tecnológicas para la industria de la construcción. Cada miembro aporta su conocimiento y experiencia en áreas clave como desarrollo de software, gestión de proyectos, diseño UX/UI y administración de sistemas.</p>
+
 ## **1.2. Solution Profile**
 
 ### **1.2.1 Antecedentes y problemática**
