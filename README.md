@@ -25,7 +25,7 @@
 | Rengifo Lozano, David   | U202221022   |
 | Chavez Viera Joseph Manuel          | U202314019    |
 | Estrada Cajamune Abraham Andres    |  U202112164   |
-|               |      |
+| Travezaño Patiño, Eduard Gedeon    | U20211A789  |
 |           |      |
 
 
