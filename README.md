@@ -633,6 +633,20 @@ Why would they invite others?
 
 ## **4.1. Style Guidelines**
 ### **4.1.1. General Style Guidelines**
+En esta sección, estableceremos las directrices generales de estilo para nuestra aplicación web. La aplicación busca proyectar una imagen de innovación tecnológica, sostenibilidad y simplicidad con un diseño relacionado con nuestros segmentos objetivos.
+
+### Tipografia
+
+### Colores
+
+### Espaciado
+
+### Comunicación Visual
+Queremos que la plataforma se sienta moderna y sencilla para el usuario para que no les cueste el uso.
+
+- **Formalidad:** Accesible pero profesional, con un lenguaje claro que invite al uso sencillo de la plataforma.
+- **Estilo de Mensajes:** Directo y claro, evitando jerga técnica innecesaria.
+- **Entusiasmo:** Transmitiendo optimismo sobre el impacto positivo en la gestion de las tareas.
 ### **4.1.2. Web Style Guidelines**
 
 ## **4.2. Information Architecture**
