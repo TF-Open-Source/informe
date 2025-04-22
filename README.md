@@ -637,10 +637,20 @@ Why would they invite others?
 En esta sección, estableceremos las directrices generales de estilo para nuestra aplicación web. La aplicación busca proyectar una imagen de innovación tecnológica, sostenibilidad y simplicidad con un diseño relacionado con nuestros segmentos objetivos.
 
 ### Tipografia
+La tipografía seleccionada es el estilo "Roboto". El tamaño de la fuente varía según su propósito.
+Para los títulos, se emplean tamaños más grandes para captar la atención del usuario, en este caso, se ha utilizado un tamaño de 48 y para los subtítulos tamaños como 40, 32 y 24.
+Los párrafos tienen un tamaño de fuente menor para acompañar los subtítulos. El tamaño seleccionado es 16.
 
 ### Colores
+Header/Footer:
+Fondo:
+Botones:
+Texto:
+Resaltado:
 
 ### Espaciado
+Es importante emplear un espaciado que facilite una lectura clara y cómoda, evitando que la vista se fatigue. 
+Para conseguirlo, se recomienda utilizar un interlineado moderado, es decir, ni excesivamente reducido ni demasiado amplio, tanto entre los distintos elementos del texto (párrafos y líneas) como dentro de ellos.
 
 ### Comunicación Visual
 Queremos que la plataforma se sienta moderna y sencilla para el usuario para que no les cueste el uso.
