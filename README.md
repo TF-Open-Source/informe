@@ -25,7 +25,7 @@
 | Rengifo Lozano, David   | U202221022   |
 | Chavez Viera Joseph Manuel          | U202314019    |
 | Estrada Cajamune Abraham Andres    |  U202112164   |
-|               |      |
+| Travezaño Patiño, Eduard Gedeon    | U20211A789  |
 |           |      |
 
 
@@ -203,6 +203,22 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+<p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
+<p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras           y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de                construcción.</p>
+<h3>Solución y Propuesta Tecnológica</h3>
+<p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
+<ul>
+        <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
+        <li><strong>Accesibilidad Multidispositivo:</strong> Interfaz intuitiva optimizada para uso tanto en oficina como en campo.</li>
+        <li><strong>Integración con Servicios Externos:</strong> Conexiones con herramientas de logística y geolocalización.</li>
+        <li><strong>Seguridad y Transparencia:</strong> Tecnologías open-source que garantizan estabilidad y escalabilidad.</li>
+</ul>
+<h3>Misión y Visión</h3>
+<h4>Misión</h4>
+<p>Facilitar la gestión de tareas en equipos de construcción mediante soluciones tecnológicas innovadoras que impulsen la productividad y la colaboración.</p>
+
+<h4>Visión</h4>
+<p>Liderar la transformación digital en el sector de la construcción, ofreciendo herramientas confiables que optimicen los procesos y potencien la eficiencia operativa.</p>
 
 ### **1.1.2. Perfiles de integrantes del equipo**
 ## **1.2. Solution Profile**
@@ -618,6 +634,20 @@ Why would they invite others?
 
 ## **4.1. Style Guidelines**
 ### **4.1.1. General Style Guidelines**
+En esta sección, estableceremos las directrices generales de estilo para nuestra aplicación web. La aplicación busca proyectar una imagen de innovación tecnológica, sostenibilidad y simplicidad con un diseño relacionado con nuestros segmentos objetivos.
+
+### Tipografia
+
+### Colores
+
+### Espaciado
+
+### Comunicación Visual
+Queremos que la plataforma se sienta moderna y sencilla para el usuario para que no les cueste el uso.
+
+- **Formalidad:** Accesible pero profesional, con un lenguaje claro que invite al uso sencillo de la plataforma.
+- **Estilo de Mensajes:** Directo y claro, evitando jerga técnica innecesaria.
+- **Entusiasmo:** Transmitiendo optimismo sobre el impacto positivo en la gestion de las tareas.
 ### **4.1.2. Web Style Guidelines**
 
 ## **4.2. Information Architecture**
