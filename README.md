@@ -353,70 +353,71 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
         <td colspan="2">
             (En la cabecera colocar por cada competidor nombre y logo)
         </td>
-        <td>Su Startup</td>
-        <td>Competidor 1</td>
-        <td>Competidor 2</td>
-        <td>Competidor 3</td>
+        <td> IronGrid </td>
+        <td> Fieldwire </td>
+        <td> Buildertrend </td>
+        <td> Procore </td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil</th>
         <td>Overview</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Plataforma que transforma la gestión de tareas en la construcción, diseñada para trabajadores de campo en empresas medianas.</td>
+        <td>Una plataforma centrada en la gestión de tareas en obra, planos, inspecciones y comunicación para equipos de construcción</td>
+        <td>Un software de gestión de la construcción integral,
+            diseñado especificamente para constructores residenciales, remodeladores y contratistas.</td>
+        <td>Una plataforma de gestión de la construcción robusta y ampliamente utilizada en proyectos comerciales, industriales y residenciales</td>
     </tr>
     <tr>
         <td>
             Ventaja competitiva ¿Qué valor ofrece a los clientes?
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Solución ligera, open-source, centrada en campo, accesible y colaborativa.</td>
+        <td>Interfaz intuitiva, productividad en obra, gestión de planos.</td>
+        <td>Gestión integral para residencial, portal para clientes.</td>
+        <td>Plataforma completa, escalable para proyectos grandes.</td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil de Marketing</th>
         <td>Mercado objetivo</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Constructoras medianas, mercados emergentes.</td>
+        <td>Constructoras pequeñas a grandes, proyectos comerciales.</td>
+        <td>Constructores residenciales, contratistas pequeños a medianos.</td>
+        <td>Constructoras grandes, proyectos comerciales/industriales.</td>
     </tr>
     <tr>
         <td>
             Estrategias de marketing
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>SEO, contenido educativo, freemium, comunidad open-source.</td>
+        <td>Anuncios LinkedIn, ferias, pruebas gratuitas, blogs técnicos.</td>
+        <td>Redes sociales, ferias locales, referidos, contenido para PYMES.</td>
+        <td>Marketing empresarial, eventos globales, casos de éxito.</td>
     </tr>
     <tr>
         <th rowspan="3"> Perfil de Producto</th>
         <td>Productos & Servicios</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Gestión de tareas, plantillas comunitarias, soporte, integraciones básicas.</td>
+        <td>Tareas, planos, inspecciones, soporte, integraciones.</td>
+        <td>Proyectos, CRM, finanzas, soporte, integraciones financieras.</td>
+        <td>Proyectos, finanzas, seguridad, soporte, integraciones avanzadas.</td>
     </tr>
     <tr>
         <td>
             Precios & Costos
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Freemium, $10-$30/usuario/mes.</td>
+        <td>$29-$59/usuario/mes.</td>
+        <td>$99-$699/mes (por proyectos).</td>
+        <td>$50-$100/usuario/mes (cotización).</td>
     </tr>
     <tr>
         <td>
             Canales de distribución (Web y/o Móvil)
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Web, móvil, ventas directas, partners.</td>
+        <td>Web, móvil, ventas directas, asociaciones.</td>
+        <td>Web, móvil, ventas empresariales, partners ERP.</td>
     </tr>
     <tr>
         <th rowspan="5"> Análisis SWOT</th>
@@ -428,37 +429,37 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
         <td>
             Fortalezas
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>funcionalidades centradas en campo (anotaciones offline, micro-planificación), comunidad colaborativa, bajo costo.</td>
+        <td>Interfaz intuitiva, enfoque en campo, adopción rápida, soporte para múltiples idiomas.</td>
+        <td>Enfoque en residencial, portal para clientes, integración financiera, facilidad de uso.</td>
+        <td>Plataforma completa, escalabilidad, integraciones avanzadas, reconocimiento de marca.</td>
     </tr>
     <tr>
         <td>
             Debilidades
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Falta de reconocimiento de marca, recursos limitados como startup, curva de adopción para usuarios no técnicos.</td>
+        <td>Menor profundidad en gestión financiera o de recursos comparado con Procore, dependencia de suscripciones.</td>
+        <td>Menor aplicabilidad en proyectos comerciales grandes, funciones de campo menos robustas que Fieldwire.</td>
+        <td>Complejidad y alto costo, menos accesible para empresas pequeñas, curva de aprendizaje.</td>
     </tr>
     <tr>
         <td>
            Oportunidades
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Creciente digitalización en mercados emergentes, demanda de soluciones económicas, potencial para expandir la biblioteca comunitaria.</td>
+        <td>Expansión a mercados emergentes, integración con nuevas tecnologías (BIM).</td>
+        <td>Crecimiento en mercados residenciales emergentes, adopción de BIM para diseño.</td>
+        <td>Expansión a nuevos mercados, integración con tecnologías emergentes (IA, IoT).</td>
     </tr>
     <tr>
         <td>
             Amenazas
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Competencia de plataformas establecidas (Procore, Fieldwire), riesgo de baja adopción si no se comunica bien el valor open-source.</td>
+        <td>Competencia de Procore y soluciones económicas como IronGrid, presión por bajar precios.</td>
+        <td>Competencia de Procore en proyectos grandes, soluciones económicas como IronGrid.</td>
+        <td>Competencia de soluciones económicas como IronGrid, presión por reducir costos.</td>
     </tr>
 </TABLE>
 
