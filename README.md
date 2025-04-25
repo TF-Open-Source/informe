@@ -1111,11 +1111,12 @@ Para los títulos, se emplean tamaños más grandes para captar la atención del
 Los párrafos tienen un tamaño de fuente menor para acompañar los subtítulos. El tamaño seleccionado es 16.
 
 ### Colores
-Header/Footer:
-Fondo:
-Botones:
-Texto:
-Resaltado:
+Header/Footer:004E7C
+Fondo:FFFFFF
+Botones:C41E3A
+Texto:1A1A1A
+Resaltado:FFD700
+<img src="./assets/Landing/PaletaColores.jpg" alt="Paleta" style="width:100%;">
 
 ### Espaciado
 Es importante emplear un espaciado que facilite una lectura clara y cómoda, evitando que la vista se fatigue. 
@@ -1214,8 +1215,10 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
 <img src="./assets/C4/c4-Contexto.png" alt="C4 Context" style="width:100%;">
+
 ### **4.6.2. Software Architecture Container Diagrams**
 <img src="./assets/C4/c4-Contenedores.png" alt="C4 Container" style="width:100%;">
+
 ### **4.6.3. Software Architecture Components Diagrams**
 <img src="./assets/C4/c4-Componentes.png" alt="C4 Component" style="width:100%;">
 
