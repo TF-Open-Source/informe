@@ -203,15 +203,40 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+ <p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
+    <p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de construcción.</p>
+<p>
+    <h3>Solución y Propuesta Tecnológica</h3>
+    <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
+    <ul>
 <p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
 <p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras           y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de                construcción.</p>
 <h3>Solución y Propuesta Tecnológica</h3>
 <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
 <ul>
+
         <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
         <li><strong>Accesibilidad Multidispositivo:</strong> Interfaz intuitiva optimizada para uso tanto en oficina como en campo.</li>
         <li><strong>Integración con Servicios Externos:</strong> Conexiones con herramientas de logística y geolocalización.</li>
         <li><strong>Seguridad y Transparencia:</strong> Tecnologías open-source que garantizan estabilidad y escalabilidad.</li>
+
+    </ul>
+</p>
+<p>
+    <h3>Misión y Visión</h3>
+    <h4>Misión</h4>
+    <p>Facilitar la gestión de tareas en equipos de construcción mediante soluciones tecnológicas innovadoras que impulsen la productividad y la colaboración.</p>
+</p>
+    <h4>Visión</h4>
+    <p>Liderar la transformación digital en el sector de la construcción, ofreciendo herramientas confiables que optimicen los procesos y potencien la eficiencia operativa.</p>
+
+
+
+### **1.1.2. Perfiles de integrantes del equipo**    
+
+<p>Los integrantes del equipo de <strong>IronGrid Systems</strong> son seis alumnos especializados en el desarrollo de soluciones tecnológicas para la industria de la construcción. Cada miembro aporta su conocimiento y experiencia en áreas clave como desarrollo de software, gestión de proyectos, diseño UX/UI y administración de sistemas.</p>
+
+## **1.2. Solution Profile**
 </ul>
 <h3>Misión y Visión</h3>
 <h4>Misión</h4>
@@ -910,16 +935,79 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 ### **4.8.1. Database Diagram**
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
-
+En esta sección detallaremos las herramientas, referencias y configuraciones que fueron utilizadas a lo largo de nuestro proyecto.
 ## **5.1. Software Configuration Management**
+A continuación, detallaremos las herramientas usadas a lo largo de nuestro proyecto, las cuales nos han ayudado a mantener una base sólida y ordenada.
 ### **5.1.1. Software Development Environment Configuration**
+Figma: https://www.figma.com/<br>
+Herramienta visual usada para el diseño del prototipo de la pagina web. Además de ser usada para las creaciones de los wireframes y mockups del desktop and mobile application del proyecto realizado.<br>
+<br>
+LucidChart: https://lucid.app/<br>
+Herramienta online para crear diagramas como flujogramas, diagramas UML, mapas mentales y arquitecturas de software.<br>
+<br>
+Trello: https://trello.com/<br>
+Herramienta de gestión de tareas basada en tableros, listas y tarjetas. Nos permitió organizar el proyecto de forma visual y colaborativa, ideal para hacer seguimiento de actividades, asignar responsabilidades y ver el progreso del trabajo.<br>
+<br>
+UxPressia: https://uxpressia.com/<br>
+Herramienta online para crear mapas de experiencia del usuario, customer journey maps y personas. Ayuda a visualizar y mejorar la experiencia del cliente de forma colaborativa y centrada en el usuario.<br>
+<br>
+Landing Page:<br>
+Para el desarrollo de la Landing Page se utilizó HTML, CSS Y JS.<br>
+<br>
+Software Deployment:<br>
+Netlify: https://www.netlify.com/<br>
+Plataforma en la cual hospedamos la Landing Page.<br>
+<br>
 ### **5.1.2. Source Code Management**
+Se utilizó GitHub como plataforma y sistema de control de versiones.<br> 
+Organization: https://github.com/TF-Open-Source<br>
+Landing Page Repository: https://github.com/TF-Open-Source/IronGrid---Landing-Page<br>
+Report Repository: https://github.com/TF-Open-Source/informe<br>
+<br>
 ### **5.1.3. Source Code Style Guide & Conventions**
+Con el propósito de mantener la consistencia, buenas prácticas y legibilidad durante el desarrollo del proyecto, hemos adoptado las siguientes guías de estilo y convenciones para el desarrollo del código:<br>
+Para el Coding Convention:<br>
+•	Hemos nombrado todos los elementos del código (funciones, variables, clases, archivos, etc) en inglés.<br>
+•	Los nombres deben ser claros, descriptivos y seguir las nomenclaturas estándar de cada lenguaje según corresponda.<br>
+<br>
+Para el Code Style guide:<br>
+HTML & CSS<br>
+•	Se sigue la guía de estilo Google HTML/CSS Style Guide.<br>
+•	Se aplica la regla de atributos en minúscula y cierre adecuado de etiquetas.<br>
+•	Se debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.<br>
+<br>
+JavaScript & TypeScript<br>
+•	Se sigue la guía de Google JavaScript Style Guide y la Google TypeScript Style Guide.
+Java<br>
+•	Se utiliza la Google Java Style Guide.
+Angular<br>
+•	Se sigue la Angular coding style guide. Además, se incluye la separación por módulos, uso de servicios y buenas prácticas en componentes.<br>
+<br>
 ### **5.1.4. Software Deployment Configuration**
-
+A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
+1.	Debemos tener nuestra landing page en un repositorio en GitHub:
+2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en netlify:
+3.  Una vez dentro, en el panel general, debemos seleccionar la opción “sites” y luego “Add new site” e importaremos desde un proyecto ya existente:
+4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
+5.  Por último, damos las últimas configuraciones necesarias para el despliegue:
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
-### **5.2.1.1. Sprint Planning 1**
+### **5.2.1.1. Sprint Planning 1**<br>
+A continuación, presentamos el Sprint 1 de nuestro proyecto, el cual está enfocado en la planificación y desarrollo de la landing page.<br>
+| Sprint #                                                                                                   | Sprint 1 |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|
+| Sprint Planning Background                   |         |
+|Date                     | 2025-04-12        |  
+| Time | 06:00 PM         | 
+| Location      | Virtual - Discord        |                                 |
+| Prepared By                              | David Rengifo         | 
+|Attendees                                 | Travezaño Patiño, Eduard Gedeon / Rengifo Lozano, David / Pachas Chavez. Alejandro Alberto / Estrada Cajamune. Abraham Andrés / Cueva Elera, Erick Armando / Chavez Viera, Joseph Manuel                  |
+|Sprint 0 Review Summary                   |Debido a que es nuestro primer Sprint, no existe un Review Summary del Sprint anterior                        |
+|Sprint 0 Retrospective Summary|Debido a que es nuestro primer Sprint, no existe un Retrospective Summary           |
+|Sprint Goal & User Stories|               |
+|Sprint 1 Goal              | |
+|Sprint 1 Velocity| |
+|Sum of Story Points| |
 ### **5.2.1.2. Sprint Backlog 1**
 ### **5.2.1.3. Development Evidence for Sprint Review**
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
