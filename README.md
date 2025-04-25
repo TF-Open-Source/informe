@@ -221,25 +221,43 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 <p>Liderar la transformación digital en el sector de la construcción, ofreciendo herramientas confiables que optimicen los procesos y potencien la eficiencia operativa.</p>
 
 ### **1.1.2. Perfiles de integrantes del equipo**
+  <p>Los integrantes del equipo de <strong>IronGrid Systems</strong> son seis alumnos especializados en el desarrollo de soluciones tecnológicas para la industria de la construcción. Cada miembro aporta su conocimiento y experiencia en áreas clave como desarrollo de software, gestión de proyectos, diseño UX/UI y administración de sistemas.</p>
+
 ## **1.2. Solution Profile**
-
 ### **1.2.1 Antecedentes y problemática**
-### What (¿Qué?)
- 
+<p>En la industria de la construcción, la gestión de tareas y la coordinación entre equipos son elementos fundamentales para el éxito de un proyecto. Sin embargo, muchas empresas aún dependen de métodos tradicionales, como hojas de cálculo o comunicaciones fragmentadas, lo que genera desafíos importantes:</p>
+<ul>
+    <li><strong>Falta de visibilidad en el progreso de las tareas:</strong> Sin una plataforma centralizada, los equipos tienen dificultades para monitorear el estado de las actividades en tiempo real.</li>
+    <li><strong>Retrasos en la ejecución de proyectos:</strong> La falta de una organización eficiente provoca incumplimientos en plazos y sobrecostos imprevistos.</li>
+    <li><strong>Desconexión entre campo y oficina:</strong> Los equipos en obra y los administradores de proyectos no siempre tienen acceso inmediato a la misma información, afectando la toma de decisiones.</li>
+    <li><strong>Dificultad en la asignación de responsabilidades:</strong> Sin un sistema estructurado, la asignación de tareas y el seguimiento de cumplimiento pueden ser confusos e ineficaces.</li>
+    <li><strong>Dependencia de procesos manuales:</strong> Muchas empresas constructoras aún utilizan papel, correos electrónicos y llamadas telefónicas para la gestión de tareas, lo que genera pérdida de información y errores humanos.</li>
+    <li><strong>Fragmentación de la comunicación:</strong> La falta de una plataforma centralizada provoca dificultades en la transmisión de información entre distintos equipos y niveles de gestión.</li>
+    <li><strong>Falta de análisis predictivo:</strong> Sin herramientas avanzadas, las constructoras tienen poca capacidad de anticipar retrasos o problemas antes de que afecten el proyecto.</li>
+</ul>
 
-### Who (¿Quién?)
- 
-### Where (¿Dónde?)
- 
+<p>IronGrid Systems busca resolver estos problemas a través de una plataforma digital optimizada para el sector de la construcción, permitiendo una gestión eficiente, colaborativa y en tiempo real.</p>
 
-### When (¿Cuándo?)
- 
+### What (¿Qué?) -> ¿Qué problema existe en la gestión de tareas en la construcción?
+<p>El problema radica en la falta de herramientas eficientes para la gestión de tareas en la construcción. Las empresas enfrentan desorganización, pérdida de información y dificultades en la asignación de responsabilidades.</p>
 
-### Why (¿Por qué?)
+### Who (¿Quién?) -> ¿Quiénes son los afectados por este problema (usuarios objetivo)?
+<p>Los principales afectados son los equipos de construcción, desde operarios en obra hasta administradores de proyectos y gerentes, quienes experimentan problemas de comunicación y seguimiento de tareas.</p>
+
+### Where (¿Dónde?) -> ¿Dónde ocurre este problema (obra, oficina, comunicación interna)?
+<p>Este problema ocurre tanto en la obra como en la oficina. En campo, la información se pierde entre múltiples canales, y en la oficina, los responsables de planificación no tienen visibilidad clara del avance real.</p>
  
-### How (¿Cómo?)
+### When (¿Cuándo?) -> ¿Cuándo se presenta el problema (planificación, ejecución)?
+<p>Surge en diferentes fases del proyecto: desde la planificación inicial hasta la ejecución y supervisión. Se acentúa cuando hay múltiples equipos trabajando en distintas ubicaciones sin un sistema centralizado.</p>
+
+### Why (¿Por qué?) -> ¿Por qué este problema afecta la eficiencia en la construcción?
+<p>La falta de una plataforma eficiente genera retrasos, sobrecostos y errores operativos. La construcción requiere precisión y coordinación, y sin herramientas adecuadas, las empresas pierden productividad y competitividad.</p>
  
-### How much (¿Cuánto?)
+### How (¿Cómo?) -> ¿Cómo nuestra solución aborda este problema y mejora el proceso?
+<p>IronGrid Systems aborda este problema ofreciendo una plataforma digital intuitiva con gestión visual de tareas, integración de datos en tiempo real y comunicación eficiente entre equipos, mejorando la organización y ejecución de los proyectos.</p>
+ 
+### How much (¿Cuánto?) -> ¿Cuánto impacto tiene este problema en costos, tiempos y productividad?
+<p>La ineficiencia en la gestión de tareas puede generar costos adicionales de hasta un 20% en proyectos grandes, además de retrasos considerables en cronogramas, afectando la rentabilidad y la calidad de la obra.</p>
  
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements
