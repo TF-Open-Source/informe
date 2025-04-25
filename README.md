@@ -47,9 +47,12 @@
     </tr>
     <tr>
         <td>01</td>
-        <td>23/08/2024</td>
-        <td> L </td>
-        <td>Formato del documento</td>
+        <td>25/04/2025</td>
+        <td> Pachas Chavez, Alejandro Alberto,Rengifo Lozano, David,Chavez Viera Joseph Manuel,
+        Estrada Cajamune Abraham Andres,
+        Travezaño Patiño, Eduard Gedeon
+ </td>
+        <td>Elaboración del TB1</td>
     </tr>
     <tr>
         <td></td>
