@@ -388,21 +388,46 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 
 ## **1.3. Segmentos objetivo**
 
- 
+<p>Para diseñar una solución efectiva, es esencial identificar los segmentos de usuarios que se beneficiarán de <strong>IronGrid Systems</strong>. La segmentación permite comprender mejor las necesidades de los clientes y ajustar la estrategia para maximizar el impacto del producto.</p>
 
-**1.**
+#### Segmentación Demográfica</h4>
+<ul>
+    <li><strong>Industria:</strong> Empresas constructoras, ingeniería civil y arquitectura.</li>
+    <li><strong>Tamaño de empresa:</strong> Desde pequeñas constructoras hasta grandes corporaciones.</li>
+    <li><strong>Ubicación:</strong> Operaciones en zonas urbanas y expansión hacia proyectos en áreas rurales.</li>
+    <li><strong>Nivel educativo:</strong> Profesionales con formación técnica o universitaria en ingeniería civil, arquitectura o gestión de proyectos.</li>
+</ul>
 
- 
+#### Información Estadística
+<ul>
+    <li>El 70% de las empresas constructoras reconoce la importancia de la automatización en la gestión de proyectos.</li>
+    <li>El 45% de los administradores de proyectos indica que la falta de herramientas digitales genera retrasos en la planificación.</li>
+    <li>Las soluciones de gestión digital pueden reducir los costos operativos entre un 15% y 25%, mejorando la eficiencia del trabajo en obra.</li>
+</ul>
 
-- #### Caracteristicas Demograficas
- 
+#### Segmentación Psicográfica
+<ul>
+    <li><strong>Intereses:</strong> Optimización de procesos, reducción de costos y digitalización de tareas.</li>
+    <li><strong>Hábitos tecnológicos:</strong> Empresas abiertas a la innovación con interés en herramientas digitales.</li>
+    <li><strong>Resistencia al cambio:</strong> Algunos segmentos requieren capacitación para la adopción de nuevas tecnologías.</li>
+</ul>
 
+#### Segmentación Conductual
+<ul>
+    <li><strong>Uso de tecnología:</strong> Empresas que ya utilizan software de gestión pero buscan una solución más eficiente.</li>
+    <li><strong>Patrones de compra:</strong> Organizaciones con presupuestos destinados a herramientas digitales para mejorar la productividad.</li>
+</ul>
 
-**2. **
+#### Actores Involucrados
+<ul>
+    <li><strong>Empresas constructoras y administradores de proyectos:</strong> Son los principales usuarios del sistema, responsables de la gestión y planificación de obras. Buscan optimizar la comunicación, reducir errores operativos y mejorar la eficiencia en la ejecución de tareas.</li>
+    <li><strong>Equipos de obra y supervisores:</strong> Son quienes ejecutan las tareas en el sitio de construcción. Necesitan acceso a información clara en tiempo real, asegurando que los proyectos se completen dentro de los plazos y presupuestos establecidos.</li>
+</ul>
 
- 
+#### Conclusión
+<p>La correcta identificación de los segmentos objetivo de <strong>IronGrid Systems</strong> es esencial para garantizar que la solución tecnológica responda a las necesidades reales de la industria de la construcción. Al analizar las características demográficas, psicográficas y conductuales de los usuarios, junto con los actores clave involucrados en la implementación, se establece una base sólida para la adopción y el éxito del sistema.</p>
 
-- #### Caracteristicas Demograficas
+<p>La digitalización del sector construcción es una tendencia en crecimiento, y <strong>IronGrid Systems</strong> busca posicionarse como una herramienta clave para mejorar la productividad, reducir costos operativos y optimizar la coordinación entre los equipos de obra y oficina. Comprender a los usuarios permitirá diseñar estrategias efectivas para la implementación, capacitación y expansión de la plataforma.</p>
  
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 ## **2.1. Competidores**
