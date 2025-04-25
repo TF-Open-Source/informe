@@ -970,10 +970,17 @@ Angular<br>
 ### **5.1.4. Software Deployment Configuration**
 A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
 1.	Debemos tener nuestra landing page en un repositorio en GitHub:
+   <img src="./assets/Cap5/img_erick7.jpeg"><br>
 2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en netlify:
+   <img src="./assets/Cap5/img_erick9.jpeg"><br>
 3.  Una vez dentro, en el panel general, debemos seleccionar la opción “sites” y luego “Add new site” e importaremos desde un proyecto ya existente:
+   <img src="./assets/Cap5/img_erick3.jpeg"><br>
 4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
+   <img src="./assets/Cap5/img_erick6.jpeg"><br>
+   <img src="./assets/Cap5/img_erick1.jpeg"><br>
 5.  Por último, damos las últimas configuraciones necesarias para el despliegue:
+   <img src="./assets/Cap5/img_erick2.jpeg"><br>
+   <img src="./assets/Cap5/img_erick8.jpeg"><br>
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
 ### **5.2.1.1. Sprint Planning 1**<br>
@@ -990,38 +997,46 @@ A continuación, presentamos el Sprint 1 de nuestro proyecto, el cual está enfo
 |Sprint 0 Retrospective Summary|Debido a que es nuestro primer Sprint, no existe un Retrospective Summary           |
 |Sprint Goal & User Stories|               |
 |Sprint 1 Goal              |Our focus is on desarrollar y desplegar la landing page del proyecto We believe it delivers interés e información to personas que estén interesadas en un software de gestión de obras para empresas medianas This will be confirmed when las personas interesadas se contacten con nosotros para mayor información acerca de nuestro software |
-|Sprint 1 Velocity| |
-|Sum of Story Points| |
+|Sprint 1 Velocity|10 |
+|Sum of Story Points|8 |
 ### **5.2.1.2. Aspect Leaders and Collaborators**<br>
-| Team member                                                                                                   | GitHub Username |Desarrollo de la Landing Page|Despliegue de la Landing Page|
-|-----------------------------------------------------------------------------------------------------------------------|-------------------|--|--|
-| Chavez Viera, Joseph Manuel                   | Joseph        |C|C|
-|Cueva Elera, Erick Armando                     | ECueva1809        |  C|C|
-| Estrada Cajamune. Abraham Andrés | Abraham0310         | C|C|
-| Pachas Chavez. Alejandro Alberto      | Alejandropch        |           C|C                      |
-| Rengifo Lozano, David                              | DavidRengifoLoz         | L|L|
-|Travezaño Patiño, Eduard Gedeon                                 | EduardTrave                  |C|C|
+| Team member                                                                                                   | GitHub Username | Desarrollo de la landing page|Despliegue de la Landing Page |Redacción y verificación del informe |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|
+|Chavez Viera, Joseph Manuel                   | U202314019-MrOsoPanda        |C |C |C |
+|Cueva Elera, Erick Armando                     | ECueva1809        |C|C|L|
+|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | C | L | 
+|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| C |
+|Rengifo Lozano, David                        |   DavidRengifoLoz           | L | L | C |
+|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |C  | L |
 
 ### **5.2.1.3. Sprint Backlog 1**<br>
 | Sprint #                                                                                                   | Sprint 1 | | | | | | |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|-|
 | User Story                   | Work-Item/Task        | | | | | | |
 |Id                     | Title        |Id|Title|Description|Estimation|Assigned To|Status|
-|                        |              |  |  |  |  |  |  |  
+|    US01                    | Barra de navegación de la Landing Page   |W01          | Landing Page NavBar |Desarrollar la barra de navegación de la landing page  | 0.5 | Cueva Elera, Erick Armando/Rengifo Lozano, David | Done | 
+|     US02                   | Sección de product information             | W02 |Landing page producto information  |Desarrollar la sección de la información del producto en la landing page  | 0.5 | Estrada Cajamune Abraham Andres/Chavez Viera Joseph Manuel | Done |
+|      US03                  | Sección de testimonios             | W03 |Landing page testimonios  | Desarrollar la sección de testimonios en la landing page | 0.5 | Travezaño Patiño, Eduard Gedeon/Pachas Chavez, Alejandro Alberto | Done |
+|      US04                  | Sección de descarga de software             | W04 | Landing page software download |Desarrollar la sección en donde se permita descargar el software en la landing page  | Rengifo Lozano, David | 0.5 |Done  |
 
 ### **5.2.1.4. Development Evidence for Sprint Review**<br>
 En este Sprint, hemos desarrollado y desplegado la Landing Page del proyecto. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
 |Repository|Branch|Commid Id|Commit Message| Commit Message Body|Commited on (Date)|
 |-           |  -    |    -    |     -         |       -             |   -               |
-|           |      |        |              |                    |                  |
+|TF-Open-Source/IronGrid---Landing-Page           |master      |53e685c15d1637b374d965e1674336c870a62e31 |Landing page| |22/04/2025|
+|TF-Open-Source/IronGrid---Landing-Page           |master      |3cb1a0a6af13f80bb87dea80892a2a75d38f8e07        | Adding new ui to the landing page             |                    |  24/04/2025              |
+| TF-Open-Source/IronGrid---Landing-Page          |master      |e4abda8c69a57e5eee2df78a982178dcdc7e49c6        |Adding new ui to the landing page with better file distribution              |                    | 24/04/2025               |
 ### **5.2.1.5. Execution Evidence for Sprint Review**<br>
 En este Sprint, desarrollamos la Landing Page, la cual se encuentra en el siguiente URL: https://irongrid.netlify.app/ <br>
+<img src="./assets/Cap5/img_erick4.jpeg"><br>
 ### **5.2.1.6. Services Documentation Evidence for Sprint Review**<br>
 Al tratarse de una Landing Page, no se requiere de una documentación de servicios.<br>
 ### **5.2.1.7. Software Deployment Evidence for Sprint Review**<br>
 En este sprint, hemos realizado el despliegue total de la Landing Page.
 Para el despliegue hemos usado “Netlify”, una plataforma de alojamiento web y automatización de despliegue, que permite publicar sitios y aplicaciones web.<br>
+<img src="./assets/Cap5/img_erick8.jpeg"><br>
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
+<img src="./assets/Cap5/img_erick5.jpeg"><br>
 
 
 ## **5.3. Validation Interviews**
