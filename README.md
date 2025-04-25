@@ -25,7 +25,7 @@
 | Rengifo Lozano, David   | U202221022   |
 | Chavez Viera Joseph Manuel          | U202314019    |
 | Estrada Cajamune Abraham Andres    |  U202112164   |
-|               |      |
+| Travezaño Patiño, Eduard Gedeon    | U20211A789  |
 |           |      |
 
 
@@ -209,10 +209,17 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
     <h3>Solución y Propuesta Tecnológica</h3>
     <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
     <ul>
+<p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
+<p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras           y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de                construcción.</p>
+<h3>Solución y Propuesta Tecnológica</h3>
+<p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
+<ul>
+
         <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
         <li><strong>Accesibilidad Multidispositivo:</strong> Interfaz intuitiva optimizada para uso tanto en oficina como en campo.</li>
         <li><strong>Integración con Servicios Externos:</strong> Conexiones con herramientas de logística y geolocalización.</li>
         <li><strong>Seguridad y Transparencia:</strong> Tecnologías open-source que garantizan estabilidad y escalabilidad.</li>
+
     </ul>
 </p>
 <p>
@@ -230,107 +237,175 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 <p>Los integrantes del equipo de <strong>IronGrid Systems</strong> son seis alumnos especializados en el desarrollo de soluciones tecnológicas para la industria de la construcción. Cada miembro aporta su conocimiento y experiencia en áreas clave como desarrollo de software, gestión de proyectos, diseño UX/UI y administración de sistemas.</p>
 
 ## **1.2. Solution Profile**
+</ul>
+<h3>Misión y Visión</h3>
+<h4>Misión</h4>
+<p>Facilitar la gestión de tareas en equipos de construcción mediante soluciones tecnológicas innovadoras que impulsen la productividad y la colaboración.</p>
 
+<h4>Visión</h4>
+<p>Liderar la transformación digital en el sector de la construcción, ofreciendo herramientas confiables que optimicen los procesos y potencien la eficiencia operativa.</p>
+
+### **1.1.2. Perfiles de integrantes del equipo**
+  <p>Los integrantes del equipo de <strong>IronGrid Systems</strong> son seis alumnos especializados en el desarrollo de soluciones tecnológicas para la industria de la construcción. Cada miembro aporta su conocimiento y experiencia en áreas clave como desarrollo de software, gestión de proyectos, diseño UX/UI y administración de sistemas.</p>
+
+## **1.2. Solution Profile**
 ### **1.2.1 Antecedentes y problemática**
-### What (¿Qué?)
- 
+<p>En la industria de la construcción, la gestión de tareas y la coordinación entre equipos son elementos fundamentales para el éxito de un proyecto. Sin embargo, muchas empresas aún dependen de métodos tradicionales, como hojas de cálculo o comunicaciones fragmentadas, lo que genera desafíos importantes:</p>
+<ul>
+    <li><strong>Falta de visibilidad en el progreso de las tareas:</strong> Sin una plataforma centralizada, los equipos tienen dificultades para monitorear el estado de las actividades en tiempo real.</li>
+    <li><strong>Retrasos en la ejecución de proyectos:</strong> La falta de una organización eficiente provoca incumplimientos en plazos y sobrecostos imprevistos.</li>
+    <li><strong>Desconexión entre campo y oficina:</strong> Los equipos en obra y los administradores de proyectos no siempre tienen acceso inmediato a la misma información, afectando la toma de decisiones.</li>
+    <li><strong>Dificultad en la asignación de responsabilidades:</strong> Sin un sistema estructurado, la asignación de tareas y el seguimiento de cumplimiento pueden ser confusos e ineficaces.</li>
+    <li><strong>Dependencia de procesos manuales:</strong> Muchas empresas constructoras aún utilizan papel, correos electrónicos y llamadas telefónicas para la gestión de tareas, lo que genera pérdida de información y errores humanos.</li>
+    <li><strong>Fragmentación de la comunicación:</strong> La falta de una plataforma centralizada provoca dificultades en la transmisión de información entre distintos equipos y niveles de gestión.</li>
+    <li><strong>Falta de análisis predictivo:</strong> Sin herramientas avanzadas, las constructoras tienen poca capacidad de anticipar retrasos o problemas antes de que afecten el proyecto.</li>
+</ul>
 
-### Who (¿Quién?)
- 
-### Where (¿Dónde?)
- 
+<p>IronGrid Systems busca resolver estos problemas a través de una plataforma digital optimizada para el sector de la construcción, permitiendo una gestión eficiente, colaborativa y en tiempo real.</p>
 
-### When (¿Cuándo?)
- 
+### What (¿Qué?) -> ¿Qué problema existe en la gestión de tareas en la construcción?
+<p>El problema radica en la falta de herramientas eficientes para la gestión de tareas en la construcción. Las empresas enfrentan desorganización, pérdida de información y dificultades en la asignación de responsabilidades.</p>
 
-### Why (¿Por qué?)
+### Who (¿Quién?) -> ¿Quiénes son los afectados por este problema (usuarios objetivo)?
+<p>Los principales afectados son los equipos de construcción, desde operarios en obra hasta administradores de proyectos y gerentes, quienes experimentan problemas de comunicación y seguimiento de tareas.</p>
+
+### Where (¿Dónde?) -> ¿Dónde ocurre este problema (obra, oficina, comunicación interna)?
+<p>Este problema ocurre tanto en la obra como en la oficina. En campo, la información se pierde entre múltiples canales, y en la oficina, los responsables de planificación no tienen visibilidad clara del avance real.</p>
  
-### How (¿Cómo?)
+### When (¿Cuándo?) -> ¿Cuándo se presenta el problema (planificación, ejecución)?
+<p>Surge en diferentes fases del proyecto: desde la planificación inicial hasta la ejecución y supervisión. Se acentúa cuando hay múltiples equipos trabajando en distintas ubicaciones sin un sistema centralizado.</p>
+
+### Why (¿Por qué?) -> ¿Por qué este problema afecta la eficiencia en la construcción?
+<p>La falta de una plataforma eficiente genera retrasos, sobrecostos y errores operativos. La construcción requiere precisión y coordinación, y sin herramientas adecuadas, las empresas pierden productividad y competitividad.</p>
  
-### How much (¿Cuánto?)
+### How (¿Cómo?) -> ¿Cómo nuestra solución aborda este problema y mejora el proceso?
+<p>IronGrid Systems aborda este problema ofreciendo una plataforma digital intuitiva con gestión visual de tareas, integración de datos en tiempo real y comunicación eficiente entre equipos, mejorando la organización y ejecución de los proyectos.</p>
+ 
+### How much (¿Cuánto?) -> ¿Cuánto impacto tiene este problema en costos, tiempos y productividad?
+<p>La ineficiencia en la gestión de tareas puede generar costos adicionales de hasta un 20% en proyectos grandes, además de retrasos considerables en cronogramas, afectando la rentabilidad y la calidad de la obra.</p>
  
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements
+#### Problem Statement
+#### Domain</h4>
+<p>La industria de la construcción enfrenta desafíos críticos en la gestión de tareas, planificación y coordinación de equipos. A pesar de la digitalización en otros sectores, muchas empresas constructoras aún dependen de procesos manuales, como hojas de cálculo y correos electrónicos, lo que dificulta la eficiencia operativa y genera retrasos en la ejecución de proyectos.</p>
 
-#### Problem Statement para Padres:
+#### Customer Segments</h4>
+<p>Los principales usuarios de <strong>IronGrid Systems</strong> incluyen:</p>
+<ul>
+    <li>Empresas constructoras que requieren una mejor coordinación entre equipos.</li>
+    <li>Administradores de proyectos encargados de la planificación y ejecución de tareas.</li>
+    <li>Supervisores e ingenieros que necesitan visibilidad sobre el estado de las tareas en tiempo real.</li>
+    <li>Operarios de construcción que se benefician de una comunicación clara y estructurada sobre sus responsabilidades.</li>
+</ul>
 
- 
-#### Problem Statement para Cuidadores:
+#### Pain Points</h4>
+<p>Actualmente, los equipos enfrentan problemas clave como:</p>
+<ul>
+    <li>Falta de comunicación efectiva entre equipos de obra y oficina.</li>
+    <li>Pérdida de información importante debido a métodos tradicionales de gestión.</li>
+    <li>Retrasos y sobrecostos derivados de la desorganización en la ejecución de tareas.</li>
+    <li>Ausencia de herramientas de monitoreo en tiempo real para la toma de decisiones.</li>
+</ul>
 
- 
+#### Gap</h4>
+<p>El mercado carece de una solución especializada en construcción que integre gestión de tareas, comunicación y visualización de datos en un único entorno digital. Las herramientas actuales no están adaptadas a las dinámicas de obra y no resuelven eficientemente los problemas operativos del sector.</p>
+
+#### Visión/Estrategia</h4>
+<p><strong>IronGrid Systems</strong> propone una plataforma digital intuitiva, accesible y optimizada para la industria de la construcción. Nuestra solución integra monitoreo en tiempo real, gestión visual de tareas y comunicación efectiva entre equipos, asegurando un flujo de trabajo estructurado y eficiente.</p>
+<p>Además, IronGrid Systems está diseñado para <strong>garantizar la seguridad de la información</strong> y la <strong>compatibilidad con herramientas existentes</strong>, facilitando su adopción en diferentes empresas sin fricciones en el flujo de trabajo.</p>
+
+#### Initial Segment</h4>
+<p>Para validar la solución, los primeros usuarios incluirán <strong>empresas medianas y grandes</strong> de construcción, enfocándonos en administradores de proyectos y supervisores que buscan digitalizar su flujo de trabajo y reducir costos operativos.</p>
+<p>Sabremos que esto es cierto cuando los usuarios reporten una <strong>mejor comunicación</strong>, <strong>reducción de errores operativos</strong> y <strong>optimización en tiempos de ejecución</strong>.</p>
 
 ### 1.2.2.2. Lean UX Assumptions
 
-- **Asumimos que**  
-  - **Sabremos que esto es cierto cuando**  
-
-- **Asumimos que** 
-  - **Sabremos que esto es cierto cuando** 
-
-- **Asumimos que** 
-  - **Sabremos que esto es cierto cuando** 
-
-- **Asumimos que**  
-  - **Sabremos que esto es cierto cuando**  
+#### Assumptions
+<ul>
+        <strong>-> Asumimos que</strong> los equipos de construcción necesitan una solución digital para mejorar la gestión de tareas.  
+        <strong><p> -> Sabremos que esto es cierto cuando</strong> las empresas reporten una reducción en errores operativos y mayor eficiencia en la planificación</p>
+</ul>
+<ul>
+        <strong>-> Asumimos que</strong> la falta de comunicación entre obra y oficina genera retrasos y sobrecostos en los proyectos.  
+        <p><strong>-> Sabremos que esto es cierto cuando</strong> los equipos identifiquen mejoras en la coordinación y en la rapidez de la toma de decisiones tras implementar IronGrid Systems.</p>
+</ul>  
+<ul>
+        <strong> -> Asumimos que</strong> los administradores de proyectos buscan herramientas integradas que centralicen la planificación y el seguimiento.  
+        <p><strong> -> Sabremos que esto es cierto cuando</strong> los usuarios adopten la plataforma y reduzcan la dependencia de métodos tradicionales como hojas de cálculo y correos electrónicos. </p> 
+</ul>
+<ul>
+        <strong> -> Asumimos que</strong> la resistencia al cambio será un obstáculo en la adopción de la solución.  
+        <p><strong> -> Sabremos que esto es cierto cuando</strong> las empresas muestren dudas en la implementación o soliciten capacitaciones para facilitar la transición. </p>
+</ul>
 
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
-<ol>
-<li> <b>Creemos que</b>   <b>Sabremos que</b>   <b>cuando</b> 
-</li>
-<li> <b>Creemos que</b>   <b>Sabremos que</b>    <b>cuando</b>   
-</li>
-<li> <b>Creemos que</b>  <b>Sabremos que</b>  <b>cuando</b>   
-</ol>
+<ul>
+    <li>
+        <strong>Creemos que</strong> digitalizar la gestión de tareas en el sector construcción mejorará la productividad y reducirá los errores operativos.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> los equipos reporten menos retrasos en la ejecución de proyectos y un flujo de trabajo más estructurado.  
+    </li>
+    <li>
+        <strong>Creemos que</strong> la integración de herramientas de comunicación en tiempo real facilitará la coordinación entre obra y oficina.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> los usuarios perciban una reducción en malentendidos y optimización en la asignación de responsabilidades.  
+    </li>
+    <li>
+        <strong>Creemos que</strong> los administradores de proyectos adoptarán IronGrid Systems si la plataforma es intuitiva y fácil de implementar.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> las empresas reduzcan su dependencia de métodos tradicionales como hojas de cálculo y correos electrónicos.  
+    </li>
+    <li>
+        <strong>Creemos que</strong> la resistencia al cambio será un desafío en la adopción de la solución.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> las empresas expresen dudas en la implementación o soliciten capacitaciones para facilitar la transición.  
+    </li>
+</ul>
 
-### **1.2.2.4. Lean UX Canvas**
-
-##### 1.2.2.1. Lean UX Canvas
+##### 1.2.2.4. Lean UX Canvas
 <table>
   <tr>
     <th valign="top">
-      <p><b>1. Business Problem</b></p>
-      <p> .</p>
+      <p>1. Business Problem </p>
+      <p>La industria de la construcción enfrenta problemas en la gestión de tareas, planificación y comunicación entre equipos, lo que ocasiona retrasos y sobrecostos.</p>
     </th>
     <th valign="top">
       <p><b>2. Business Outcomes</b></p>
-      <p>-   .</p>
-      <p>-  .</p>
-      <p>-  .</p>
-      <p>-  .</p>
+      <p>- Optimizar la planificación y ejecución de proyectos de construcción.</p>
+      <p>- Reducir errores operativos y mejorar la coordinación entre obra y oficina.</p>
+      <p>- Disminuir tiempos de entrega y costos asociados.</p>
+      <p>- Incrementar la adopción de herramientas digitales para gestión de tareas.</p>
     </th>
     <th rowspan="2" valign="top">
       <p><b>5. Solutions</b></p>
-      <p>- .</p>
-      <p>-  .</p>
+      <p>- Plataforma digital de gestión de proyectos.</p>
+      <p>- Herramientas de comunicación en tiempo real y monitoreo visual.</p>
     </th>
   </tr>
   <tr>
     <td valign="top">
       <p><b>3. Users</b></p>
-      <p>-  .</p>
-      <p>-  .</p>
-      <p>-  .</p>
+      <p>- Empresas constructoras.</p>
+      <p>- Administradores de proyectos.</p>
+      <p>- Supervisores e ingenieros.</p>
     </td>
     <td valign="top">
       <p><b>4. User Benefits</b></p>
-      <p>-  .</p>
-      <p>-  </p>
+      <p>- Mejor planificación y gestión de tareas.</p>
+      <p>- Comunicación fluida y centralizada entre equipos.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <p><b>6. Hypothesis</b></p>
-      <p>- .</p>
-      <p>-  </p>
+      <p>- Creemos que digitalizar la gestión de tareas mejorará la productividad.</p>
+      <p>- Creemos que la comunicación en tiempo real optimizará la coordinación.</p>
     </td>
     <td valign="top">
       <p><b>7. What’s the most important thing we need to learn first?</b></p>
-      <p> .</p>
+      <p>Cómo los equipos de construcción interactúan actualmente con herramientas digitales.</p>
     </td>
     <td valign="top">
       <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
-      <p>.</p>
+      <p>Realizar entrevistas con usuarios y pruebas piloto en entornos reales.</p>
     </td>
   </tr>
 </table>
@@ -338,21 +413,46 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 
 ## **1.3. Segmentos objetivo**
 
- 
+<p>Para diseñar una solución efectiva, es esencial identificar los segmentos de usuarios que se beneficiarán de <strong>IronGrid Systems</strong>. La segmentación permite comprender mejor las necesidades de los clientes y ajustar la estrategia para maximizar el impacto del producto.</p>
 
-**1.**
+#### Segmentación Demográfica</h4>
+<ul>
+    <li><strong>Industria:</strong> Empresas constructoras, ingeniería civil y arquitectura.</li>
+    <li><strong>Tamaño de empresa:</strong> Desde pequeñas constructoras hasta grandes corporaciones.</li>
+    <li><strong>Ubicación:</strong> Operaciones en zonas urbanas y expansión hacia proyectos en áreas rurales.</li>
+    <li><strong>Nivel educativo:</strong> Profesionales con formación técnica o universitaria en ingeniería civil, arquitectura o gestión de proyectos.</li>
+</ul>
 
- 
+#### Información Estadística
+<ul>
+    <li>El 70% de las empresas constructoras reconoce la importancia de la automatización en la gestión de proyectos.</li>
+    <li>El 45% de los administradores de proyectos indica que la falta de herramientas digitales genera retrasos en la planificación.</li>
+    <li>Las soluciones de gestión digital pueden reducir los costos operativos entre un 15% y 25%, mejorando la eficiencia del trabajo en obra.</li>
+</ul>
 
-- #### Caracteristicas Demograficas
- 
+#### Segmentación Psicográfica
+<ul>
+    <li><strong>Intereses:</strong> Optimización de procesos, reducción de costos y digitalización de tareas.</li>
+    <li><strong>Hábitos tecnológicos:</strong> Empresas abiertas a la innovación con interés en herramientas digitales.</li>
+    <li><strong>Resistencia al cambio:</strong> Algunos segmentos requieren capacitación para la adopción de nuevas tecnologías.</li>
+</ul>
 
+#### Segmentación Conductual
+<ul>
+    <li><strong>Uso de tecnología:</strong> Empresas que ya utilizan software de gestión pero buscan una solución más eficiente.</li>
+    <li><strong>Patrones de compra:</strong> Organizaciones con presupuestos destinados a herramientas digitales para mejorar la productividad.</li>
+</ul>
 
-**2. **
+#### Actores Involucrados
+<ul>
+    <li><strong>Empresas constructoras y administradores de proyectos:</strong> Son los principales usuarios del sistema, responsables de la gestión y planificación de obras. Buscan optimizar la comunicación, reducir errores operativos y mejorar la eficiencia en la ejecución de tareas.</li>
+    <li><strong>Equipos de obra y supervisores:</strong> Son quienes ejecutan las tareas en el sitio de construcción. Necesitan acceso a información clara en tiempo real, asegurando que los proyectos se completen dentro de los plazos y presupuestos establecidos.</li>
+</ul>
 
- 
+#### Conclusión
+<p>La correcta identificación de los segmentos objetivo de <strong>IronGrid Systems</strong> es esencial para garantizar que la solución tecnológica responda a las necesidades reales de la industria de la construcción. Al analizar las características demográficas, psicográficas y conductuales de los usuarios, junto con los actores clave involucrados en la implementación, se establece una base sólida para la adopción y el éxito del sistema.</p>
 
-- #### Caracteristicas Demograficas
+<p>La digitalización del sector construcción es una tendencia en crecimiento, y <strong>IronGrid Systems</strong> busca posicionarse como una herramienta clave para mejorar la productividad, reducir costos operativos y optimizar la coordinación entre los equipos de obra y oficina. Comprender a los usuarios permitirá diseñar estrategias efectivas para la implementación, capacitación y expansión de la plataforma.</p>
  
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 ## **2.1. Competidores**
@@ -377,70 +477,71 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
         <td colspan="2">
             (En la cabecera colocar por cada competidor nombre y logo)
         </td>
-        <td>Su Startup</td>
-        <td>Competidor 1</td>
-        <td>Competidor 2</td>
-        <td>Competidor 3</td>
+        <td> IronGrid </td>
+        <td> Fieldwire </td>
+        <td> Buildertrend </td>
+        <td> Procore </td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil</th>
         <td>Overview</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Plataforma que transforma la gestión de tareas en la construcción, diseñada para trabajadores de campo en empresas medianas.</td>
+        <td>Una plataforma centrada en la gestión de tareas en obra, planos, inspecciones y comunicación para equipos de construcción</td>
+        <td>Un software de gestión de la construcción integral,
+            diseñado especificamente para constructores residenciales, remodeladores y contratistas.</td>
+        <td>Una plataforma de gestión de la construcción robusta y ampliamente utilizada en proyectos comerciales, industriales y residenciales</td>
     </tr>
     <tr>
         <td>
             Ventaja competitiva ¿Qué valor ofrece a los clientes?
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Solución ligera, open-source, centrada en campo, accesible y colaborativa.</td>
+        <td>Interfaz intuitiva, productividad en obra, gestión de planos.</td>
+        <td>Gestión integral para residencial, portal para clientes.</td>
+        <td>Plataforma completa, escalable para proyectos grandes.</td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil de Marketing</th>
         <td>Mercado objetivo</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Constructoras medianas, mercados emergentes.</td>
+        <td>Constructoras pequeñas a grandes, proyectos comerciales.</td>
+        <td>Constructores residenciales, contratistas pequeños a medianos.</td>
+        <td>Constructoras grandes, proyectos comerciales/industriales.</td>
     </tr>
     <tr>
         <td>
             Estrategias de marketing
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>SEO, contenido educativo, freemium, comunidad open-source.</td>
+        <td>Anuncios LinkedIn, ferias, pruebas gratuitas, blogs técnicos.</td>
+        <td>Redes sociales, ferias locales, referidos, contenido para PYMES.</td>
+        <td>Marketing empresarial, eventos globales, casos de éxito.</td>
     </tr>
     <tr>
         <th rowspan="3"> Perfil de Producto</th>
         <td>Productos & Servicios</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Gestión de tareas, plantillas comunitarias, soporte, integraciones básicas.</td>
+        <td>Tareas, planos, inspecciones, soporte, integraciones.</td>
+        <td>Proyectos, CRM, finanzas, soporte, integraciones financieras.</td>
+        <td>Proyectos, finanzas, seguridad, soporte, integraciones avanzadas.</td>
     </tr>
     <tr>
         <td>
             Precios & Costos
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Freemium, $10-$30/usuario/mes.</td>
+        <td>$29-$59/usuario/mes.</td>
+        <td>$99-$699/mes (por proyectos).</td>
+        <td>$50-$100/usuario/mes (cotización).</td>
     </tr>
     <tr>
         <td>
             Canales de distribución (Web y/o Móvil)
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Web, móvil, ventas directas, partners.</td>
+        <td>Web, móvil, ventas directas, asociaciones.</td>
+        <td>Web, móvil, ventas empresariales, partners ERP.</td>
     </tr>
     <tr>
         <th rowspan="5"> Análisis SWOT</th>
@@ -452,41 +553,76 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
         <td>
             Fortalezas
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>funcionalidades centradas en campo (anotaciones offline, micro-planificación), comunidad colaborativa, bajo costo.</td>
+        <td>Interfaz intuitiva, enfoque en campo, adopción rápida, soporte para múltiples idiomas.</td>
+        <td>Enfoque en residencial, portal para clientes, integración financiera, facilidad de uso.</td>
+        <td>Plataforma completa, escalabilidad, integraciones avanzadas, reconocimiento de marca.</td>
     </tr>
     <tr>
         <td>
             Debilidades
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Falta de reconocimiento de marca, recursos limitados como startup, curva de adopción para usuarios no técnicos.</td>
+        <td>Menor profundidad en gestión financiera o de recursos comparado con Procore, dependencia de suscripciones.</td>
+        <td>Menor aplicabilidad en proyectos comerciales grandes, funciones de campo menos robustas que Fieldwire.</td>
+        <td>Complejidad y alto costo, menos accesible para empresas pequeñas, curva de aprendizaje.</td>
     </tr>
     <tr>
         <td>
            Oportunidades
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Creciente digitalización en mercados emergentes, demanda de soluciones económicas, potencial para expandir la biblioteca comunitaria.</td>
+        <td>Expansión a mercados emergentes, integración con nuevas tecnologías (BIM).</td>
+        <td>Crecimiento en mercados residenciales emergentes, adopción de BIM para diseño.</td>
+        <td>Expansión a nuevos mercados, integración con tecnologías emergentes (IA, IoT).</td>
     </tr>
     <tr>
         <td>
             Amenazas
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Competencia de plataformas establecidas (Procore, Fieldwire), riesgo de baja adopción si no se comunica bien el valor open-source.</td>
+        <td>Competencia de Procore y soluciones económicas como IronGrid, presión por bajar precios.</td>
+        <td>Competencia de Procore en proyectos grandes, soluciones económicas como IronGrid.</td>
+        <td>Competencia de soluciones económicas como IronGrid, presión por reducir costos.</td>
     </tr>
 </TABLE>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
+Teniendo identificados las fortalezas, debilidades, oportunidades y amenazas de nuestros principales competidores.
+Plantearemos las estrategias y tácticas frente a ellos:
+
+**Afrontando las fortalezas de nuestros competidores**
+**Estrategia:**
+  Brindar un sistema de gestión de tareas intuitivo y accesible que sea personalizable para roles específicos, manteniendo un costo bajo gracias al modelo open-source, mientras se ofrece una calidad comparable a competidores establecidos como Procore y Fieldwire.
+
+**Tácticas:**
+ - Desarrollar una interfaz pulida y fácil de usar, optimizada para los dispositivos móviles y de escritorio, con botones grandes y alto contraste para uso en obra.
+ - Ofrecer un modelo freemium con funciones básicas gratuitas y suscripciones premium a un costo reducido, manteniendo la calidad del sistema mediante actualizaciones comunitarias
+
+**Afrontando las debilidades de nuestros competidores**
+**Estrategia:**
+  Brindar un sistema que se especialice en las necesidades de empresas constructoras medianas, abarcando roles específicos, con una interfaz amigable y práctica que no requiera capacitación extensa, a diferencia de competidores como Procore y Autodesk Construction Cloud.
+
+**Tácticas:**
+ - Desarrollar una interfaz simple y práctica, con incorporación en menos de 5 minutos y ayuda contextual en varios idiomas.
+ - Diseñar el sistema especializado en constructoras medianas, con funcionalidades como anotaciones sin conexión, tableros por rol y micro-planificación diaria, resolviendo problemas específicos que competidores no abordan.
+
+**Afrontando las oportunidades de nuestros competidores**
+**Estrategia:**
+ Atraer usuarios potenciales de la competencia, especialmente de Fieldwire y Buildertrend, que buscan soluciones más accesibles y personalizables.
+
+**Tácticas:**
+  - Publicitarnos en plataformas conocidas como LinkedIn, X (antes twitter) y foros de construcción, destacando testimonios de usuarios y el modelo open-source.
+  - Ofrecer talleres gratuitos en comunidades de construcción para mostrar las ventajas de IronGrid frente a competidores.
+
+**Afrontando las amenazas de nuestros competidores**
+**Estrategia:**
+Mantener actualizaciones constantes y una cobertura internacional para competir con la escalabilidad de competidores como Procore.
+
+**Tácticas:**
+ - Realizar actualizaciones al aparecer cualquier fallo, aprovechando la agilidad del modelo open-source y la comunidad para iterar rápidamente.
+ - Expandir la cobertura internacional con soporte multilingüe y plantillas adaptadas a normativas locales, empezando por mercados emergentes como América Latina.
+
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
@@ -641,14 +777,99 @@ Why would they invite others?
 
 ## **4.1. Style Guidelines**
 ### **4.1.1. General Style Guidelines**
+En esta sección, estableceremos las directrices generales de estilo para nuestra aplicación web. La aplicación busca proyectar una imagen de innovación tecnológica, sostenibilidad y simplicidad con un diseño relacionado con nuestros segmentos objetivos.
+
+### Tipografia
+La tipografía seleccionada es el estilo "Roboto". El tamaño de la fuente varía según su propósito.
+Para los títulos, se emplean tamaños más grandes para captar la atención del usuario, en este caso, se ha utilizado un tamaño de 48 y para los subtítulos tamaños como 40, 32 y 24.
+Los párrafos tienen un tamaño de fuente menor para acompañar los subtítulos. El tamaño seleccionado es 16.
+
+### Colores
+Header/Footer:
+Fondo:
+Botones:
+Texto:
+Resaltado:
+
+### Espaciado
+Es importante emplear un espaciado que facilite una lectura clara y cómoda, evitando que la vista se fatigue. 
+Para conseguirlo, se recomienda utilizar un interlineado moderado, es decir, ni excesivamente reducido ni demasiado amplio, tanto entre los distintos elementos del texto (párrafos y líneas) como dentro de ellos.
+
+### Comunicación Visual
+Queremos que la plataforma se sienta moderna y sencilla para el usuario para que no les cueste el uso.
+
+- **Formalidad:** Accesible pero profesional, con un lenguaje claro que invite al uso sencillo de la plataforma.
+- **Estilo de Mensajes:** Directo y claro, evitando jerga técnica innecesaria.
+- **Entusiasmo:** Transmitiendo optimismo sobre el impacto positivo en la gestion de las tareas.
+
 ### **4.1.2. Web Style Guidelines**
+En esta sección se mostrará con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
 
 ## **4.2. Information Architecture**
 ### **4.2.1. Organization Systems**
+- **Jerarquía Visual:**
+ Para mantener la belleza de nuestra plataforma interactiva y flexible, hemos optado por darle prioridad a la interfaz en función de su relevancia para simplificar la interacción con el usuario.
+
+- **Alineación:**
+  En nuestra plataforma, nuestras imágenes y botones se encuentran alineados de manera ordenada. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
+
+- **Organización Secuencial:**
+  Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto, organizaremos la visualización de la lista de **scooters** y **bicicletas**.
+
+- **Esquemas de categorización de contenido de nuestra web:**
+  Para la organización visual, utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención.
+
 ### **4.2.2. Labeling Systems**
+ Para establecer un sistema de etiquetado eficiente en nuestra aplicación usamos un lenguaje formal para que nuestros nuevos
+ usuarios puedan identificar facilmente estas etiquetas.
+
+---
+
+### Etiquetas en la Landing Page:
+
+| **Etiqueta** | **Descripción**                                                                                |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| Inicio       | Apartado donde se muestra una introducción de lo que trata. |
+| Funcionalidades  | Apartado donde se muestran muestran los beneficios de la aplicación.     |
+| Suscríbete   | Apartado donde puedes suscribirte para tener beneficios adicionales.                                 |
+| Contáctanos  | Apartado donde el usuario puede comunicarse con nosotros ante cualquier duda.                 |
+| Comenzar     | Apartado que te redirige a la aplicación web.                                                  |
+
 ### **4.2.3. SEO Tags and Meta Tags**
+Se utilizaron los siguientes tags en el desarrollo:
+
+- SEO tag Header: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
+
+- SEO tah Url: Emplearemos una Url sencilla para la búsqueda.
+
+- Meta title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
+
+- Meta tag Author: Es el autor de la página, en este caso utilizamos el nombre del startup.
+
+- Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
+
+- Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
 ### **4.2.4. Searching Systems**
+Implementaremos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Utilizaremos un sistema de búsqueda por texto que permita a los usuarios encontrar la tarea respectiva de una manera rápida. Los sistemas de búsqueda que se usarán son:
+
+- Barra de búsqueda: Estos servirán para ayudar al usuario a encontrar la tarea que busca.
+- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
+
 ### **4.2.5. Navigation Systems**
+Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan sus numerosas funcionalidades.
+Como sistema de navegación, para el landing page, nos encargamos de realizar una página vertical con poco texto donde el usuario pueda navegar sin saltarse a otra página y confundirse por la inmensidad de información. Nuestro landing page cuenta con secciones como:
+
+- Funcionalidades: El usuario podrá visualizar las funcionalidad y beneficios que tienen por usar nuestra aplicación.
+- Contactanos: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Experiencia: El usuario podrá visualizar los comentarios y opiniones de otros usuarios.
+- Start: El usuario en la sección de "Prueba Gratis Ahora" podrá ir a la web, donde lo mandará primero a iniciar sesión o registrarse para probar la web.
+
+Como sistema de navegación, para la web, optamos emplear una barra de menú horizontal en la parte superior que guiará al usuario por las diferentes secciones con títulos y botones estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
+
+- About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
+- Subscription: Aquí podrá obtener toda la información de los beneficios de la suscripción que la aplicación le ofrece.
+- Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Barra de búsqueda: Se usa la barra denavegación para poder realizar la búsqueda que quiera el usuario.
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
@@ -675,16 +896,79 @@ Why would they invite others?
 ### **4.8.1. Database Diagram**
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
-
+En esta sección detallaremos las herramientas, referencias y configuraciones que fueron utilizadas a lo largo de nuestro proyecto.
 ## **5.1. Software Configuration Management**
+A continuación, detallaremos las herramientas usadas a lo largo de nuestro proyecto, las cuales nos han ayudado a mantener una base sólida y ordenada.
 ### **5.1.1. Software Development Environment Configuration**
+Figma: https://www.figma.com/<br>
+Herramienta visual usada para el diseño del prototipo de la pagina web. Además de ser usada para las creaciones de los wireframes y mockups del desktop and mobile application del proyecto realizado.<br>
+<br>
+LucidChart: https://lucid.app/<br>
+Herramienta online para crear diagramas como flujogramas, diagramas UML, mapas mentales y arquitecturas de software.<br>
+<br>
+Trello: https://trello.com/<br>
+Herramienta de gestión de tareas basada en tableros, listas y tarjetas. Nos permitió organizar el proyecto de forma visual y colaborativa, ideal para hacer seguimiento de actividades, asignar responsabilidades y ver el progreso del trabajo.<br>
+<br>
+UxPressia: https://uxpressia.com/<br>
+Herramienta online para crear mapas de experiencia del usuario, customer journey maps y personas. Ayuda a visualizar y mejorar la experiencia del cliente de forma colaborativa y centrada en el usuario.<br>
+<br>
+Landing Page:<br>
+Para el desarrollo de la Landing Page se utilizó HTML, CSS Y JS.<br>
+<br>
+Software Deployment:<br>
+Netlify: https://www.netlify.com/<br>
+Plataforma en la cual hospedamos la Landing Page.<br>
+<br>
 ### **5.1.2. Source Code Management**
+Se utilizó GitHub como plataforma y sistema de control de versiones.<br> 
+Organization: https://github.com/TF-Open-Source<br>
+Landing Page Repository: https://github.com/TF-Open-Source/IronGrid---Landing-Page<br>
+Report Repository: https://github.com/TF-Open-Source/informe<br>
+<br>
 ### **5.1.3. Source Code Style Guide & Conventions**
+Con el propósito de mantener la consistencia, buenas prácticas y legibilidad durante el desarrollo del proyecto, hemos adoptado las siguientes guías de estilo y convenciones para el desarrollo del código:<br>
+Para el Coding Convention:<br>
+•	Hemos nombrado todos los elementos del código (funciones, variables, clases, archivos, etc) en inglés.<br>
+•	Los nombres deben ser claros, descriptivos y seguir las nomenclaturas estándar de cada lenguaje según corresponda.<br>
+<br>
+Para el Code Style guide:<br>
+HTML & CSS<br>
+•	Se sigue la guía de estilo Google HTML/CSS Style Guide.<br>
+•	Se aplica la regla de atributos en minúscula y cierre adecuado de etiquetas.<br>
+•	Se debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.<br>
+<br>
+JavaScript & TypeScript<br>
+•	Se sigue la guía de Google JavaScript Style Guide y la Google TypeScript Style Guide.
+Java<br>
+•	Se utiliza la Google Java Style Guide.
+Angular<br>
+•	Se sigue la Angular coding style guide. Además, se incluye la separación por módulos, uso de servicios y buenas prácticas en componentes.<br>
+<br>
 ### **5.1.4. Software Deployment Configuration**
-
+A continuación, demostraremos el proceso de despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify:
+1.	Debemos tener nuestra landing page en un repositorio en GitHub:
+2.  Debemos iniciar sesión o crear una cuenta en caso no tengamos una en netlify:
+3.  Una vez dentro, en el panel general, debemos seleccionar la opción “sites” y luego “Add new site” e importaremos desde un proyecto ya existente:
+4.  Daremos los permisos necesarios para que acceda a nuestro repositorio y seleccionaremos nuestra landing page a desplegar:
+5.  Por último, damos las últimas configuraciones necesarias para el despliegue:
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
-### **5.2.1.1. Sprint Planning 1**
+### **5.2.1.1. Sprint Planning 1**<br>
+A continuación, presentamos el Sprint 1 de nuestro proyecto, el cual está enfocado en la planificación y desarrollo de la landing page.<br>
+| Sprint #                                                                                                   | Sprint 1 |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|
+| Sprint Planning Background                   |         |
+|Date                     | 2025-04-12        |  
+| Time | 06:00 PM         | 
+| Location      | Virtual - Discord        |                                 |
+| Prepared By                              | David Rengifo         | 
+|Attendees                                 | Travezaño Patiño, Eduard Gedeon / Rengifo Lozano, David / Pachas Chavez. Alejandro Alberto / Estrada Cajamune. Abraham Andrés / Cueva Elera, Erick Armando / Chavez Viera, Joseph Manuel                  |
+|Sprint 0 Review Summary                   |Debido a que es nuestro primer Sprint, no existe un Review Summary del Sprint anterior                        |
+|Sprint 0 Retrospective Summary|Debido a que es nuestro primer Sprint, no existe un Retrospective Summary           |
+|Sprint Goal & User Stories|               |
+|Sprint 1 Goal              | |
+|Sprint 1 Velocity| |
+|Sum of Story Points| |
 ### **5.2.1.2. Sprint Backlog 1**
 ### **5.2.1.3. Development Evidence for Sprint Review**
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
