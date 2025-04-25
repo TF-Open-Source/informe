@@ -893,7 +893,7 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
-<img src="./assets/Diagram/ClassDiagram.png" alt="Class Diagram" style="width:100%;">
+<img src="./assets/Diagram/ClassDiagram.PNG" alt="Class Diagram" style="width:100%;">
 
 ### **4.7.2. Class Dictionary**
 Usuario: Entidad abstracta que representa a cualquier usuario del sistema, incluyendo sus datos básicos y acceso al perfil. Es extendida por Obrero y Jefe de Obra.
@@ -912,7 +912,7 @@ Reporte: Entidad generada por un Jefe de Obra que agrupa tareas en una fecha det
 
 Notificacion: Entidad que representa un mensaje informativo dentro del sistema, enviado a un usuario en una fecha determinada, y que puede marcarse como leída.
 
-CambioEstado (opcional): Entidad que registra cada modificación en el estado de una tarea, incluyendo la fecha, el nuevo estado y el usuario que realizó el cambio. Útil para auditoría y trazabilidad.
+CambioEstado: Entidad que registra cada modificación en el estado de una tarea, incluyendo la fecha, el nuevo estado y el usuario que realizó el cambio. Útil para auditoría y trazabilidad.
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
