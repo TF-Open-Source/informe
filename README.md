@@ -10,12 +10,12 @@
 </div>
 
 <br>
-<h3 align="center"> Desarrollo de Aplicaiones Open Source - SW56 </h3>
-<h3 align="center"> Profesor del Curso:  </h3>
+<h3 align="center"> Desarrollo de Aplicaiones Open Source - 1ASI0729 </h3>
+<h3 align="center"> Profesor del Curso: Castro Veramendi, Rafael Oswaldo </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
-<h3 align="center"> EMPRESA DE INICIO: nombre </h3>
+<h3 align="center"> EMPRESA DE INICIO: BuildPlanning </h3>
 
-<h3 align="center"> PRODUCTO: "NOMBRE"</h3>
+<h3 align="center"> PRODUCTO: IronGrid Systems </h3>
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<h3 align="center"> 2024 </h3>
+<h3 align="center"> 2025 </h3>
 
 <br>
 
@@ -67,7 +67,7 @@
 
 # <font color="red">**Project Report Collaboration Insights**</font>
 
-URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
+URL del repositorio de la Organizacion: <https://github.com/TF-Open-Source>
 
 
 # <font color="red">**Contenido**</font>
@@ -894,6 +894,7 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
+<img src="./assets/Diagram/DatabaseDiagram.png" alt="Database Diagram" style="width:100%;">
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 En esta sección detallaremos las herramientas, referencias y configuraciones que fueron utilizadas a lo largo de nuestro proyecto.
