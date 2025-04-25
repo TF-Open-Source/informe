@@ -261,41 +261,81 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
  
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements
+#### Problem Statement
+#### Domain</h4>
+<p>La industria de la construcción enfrenta desafíos críticos en la gestión de tareas, planificación y coordinación de equipos. A pesar de la digitalización en otros sectores, muchas empresas constructoras aún dependen de procesos manuales, como hojas de cálculo y correos electrónicos, lo que dificulta la eficiencia operativa y genera retrasos en la ejecución de proyectos.</p>
 
-#### Problem Statement para Padres:
+#### Customer Segments</h4>
+<p>Los principales usuarios de <strong>IronGrid Systems</strong> incluyen:</p>
+<ul>
+    <li>Empresas constructoras que requieren una mejor coordinación entre equipos.</li>
+    <li>Administradores de proyectos encargados de la planificación y ejecución de tareas.</li>
+    <li>Supervisores e ingenieros que necesitan visibilidad sobre el estado de las tareas en tiempo real.</li>
+    <li>Operarios de construcción que se benefician de una comunicación clara y estructurada sobre sus responsabilidades.</li>
+</ul>
 
- 
-#### Problem Statement para Cuidadores:
+#### Pain Points</h4>
+<p>Actualmente, los equipos enfrentan problemas clave como:</p>
+<ul>
+    <li>Falta de comunicación efectiva entre equipos de obra y oficina.</li>
+    <li>Pérdida de información importante debido a métodos tradicionales de gestión.</li>
+    <li>Retrasos y sobrecostos derivados de la desorganización en la ejecución de tareas.</li>
+    <li>Ausencia de herramientas de monitoreo en tiempo real para la toma de decisiones.</li>
+</ul>
 
- 
+#### Gap</h4>
+<p>El mercado carece de una solución especializada en construcción que integre gestión de tareas, comunicación y visualización de datos en un único entorno digital. Las herramientas actuales no están adaptadas a las dinámicas de obra y no resuelven eficientemente los problemas operativos del sector.</p>
+
+#### Visión/Estrategia</h4>
+<p><strong>IronGrid Systems</strong> propone una plataforma digital intuitiva, accesible y optimizada para la industria de la construcción. Nuestra solución integra monitoreo en tiempo real, gestión visual de tareas y comunicación efectiva entre equipos, asegurando un flujo de trabajo estructurado y eficiente.</p>
+<p>Además, IronGrid Systems está diseñado para <strong>garantizar la seguridad de la información</strong> y la <strong>compatibilidad con herramientas existentes</strong>, facilitando su adopción en diferentes empresas sin fricciones en el flujo de trabajo.</p>
+
+#### Initial Segment</h4>
+<p>Para validar la solución, los primeros usuarios incluirán <strong>empresas medianas y grandes</strong> de construcción, enfocándonos en administradores de proyectos y supervisores que buscan digitalizar su flujo de trabajo y reducir costos operativos.</p>
+<p>Sabremos que esto es cierto cuando los usuarios reporten una <strong>mejor comunicación</strong>, <strong>reducción de errores operativos</strong> y <strong>optimización en tiempos de ejecución</strong>.</p>
 
 ### 1.2.2.2. Lean UX Assumptions
 
-- **Asumimos que**  
-  - **Sabremos que esto es cierto cuando**  
-
-- **Asumimos que** 
-  - **Sabremos que esto es cierto cuando** 
-
-- **Asumimos que** 
-  - **Sabremos que esto es cierto cuando** 
-
-- **Asumimos que**  
-  - **Sabremos que esto es cierto cuando**  
+#### Assumptions
+<ul>
+        <strong>-> Asumimos que</strong> los equipos de construcción necesitan una solución digital para mejorar la gestión de tareas.  
+        <strong><p> -> Sabremos que esto es cierto cuando</strong> las empresas reporten una reducción en errores operativos y mayor eficiencia en la planificación</p>
+</ul>
+<ul>
+        <strong>-> Asumimos que</strong> la falta de comunicación entre obra y oficina genera retrasos y sobrecostos en los proyectos.  
+        <p><strong>-> Sabremos que esto es cierto cuando</strong> los equipos identifiquen mejoras en la coordinación y en la rapidez de la toma de decisiones tras implementar IronGrid Systems.</p>
+</ul>  
+<ul>
+        <strong> -> Asumimos que</strong> los administradores de proyectos buscan herramientas integradas que centralicen la planificación y el seguimiento.  
+        <p><strong> -> Sabremos que esto es cierto cuando</strong> los usuarios adopten la plataforma y reduzcan la dependencia de métodos tradicionales como hojas de cálculo y correos electrónicos. </p> 
+</ul>
+<ul>
+        <strong> -> Asumimos que</strong> la resistencia al cambio será un obstáculo en la adopción de la solución.  
+        <p><strong> -> Sabremos que esto es cierto cuando</strong> las empresas muestren dudas en la implementación o soliciten capacitaciones para facilitar la transición. </p>
+</ul>
 
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
-<ol>
-<li> <b>Creemos que</b>   <b>Sabremos que</b>   <b>cuando</b> 
-</li>
-<li> <b>Creemos que</b>   <b>Sabremos que</b>    <b>cuando</b>   
-</li>
-<li> <b>Creemos que</b>  <b>Sabremos que</b>  <b>cuando</b>   
-</ol>
+<ul>
+    <li>
+        <strong>Creemos que</strong> digitalizar la gestión de tareas en el sector construcción mejorará la productividad y reducirá los errores operativos.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> los equipos reporten menos retrasos en la ejecución de proyectos y un flujo de trabajo más estructurado.  
+    </li>
+    <li>
+        <strong>Creemos que</strong> la integración de herramientas de comunicación en tiempo real facilitará la coordinación entre obra y oficina.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> los usuarios perciban una reducción en malentendidos y optimización en la asignación de responsabilidades.  
+    </li>
+    <li>
+        <strong>Creemos que</strong> los administradores de proyectos adoptarán IronGrid Systems si la plataforma es intuitiva y fácil de implementar.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> las empresas reduzcan su dependencia de métodos tradicionales como hojas de cálculo y correos electrónicos.  
+    </li>
+    <li>
+        <strong>Creemos que</strong> la resistencia al cambio será un desafío en la adopción de la solución.  
+        <br><strong>Sabremos que esto es cierto cuando</strong> las empresas expresen dudas en la implementación o soliciten capacitaciones para facilitar la transición.  
+    </li>
+</ul>
 
-### **1.2.2.4. Lean UX Canvas**
-
-##### 1.2.2.1. Lean UX Canvas
+##### 1.2.2.4. Lean UX Canvas
 <table>
   <tr>
     <th valign="top">
