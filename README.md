@@ -563,6 +563,41 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 </TABLE>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
+Teniendo identificados las fortalezas, debilidades, oportunidades y amenazas de nuestros principales competidores.
+Plantearemos las estrategias y tácticas frente a ellos:
+
+**Afrontando las fortalezas de nuestros competidores**
+**Estrategia:**
+  Brindar un sistema de gestión de tareas intuitivo y accesible que sea personalizable para roles específicos, manteniendo un costo bajo gracias al modelo open-source, mientras se ofrece una calidad comparable a competidores establecidos como Procore y Fieldwire.
+
+**Tácticas:**
+ - Desarrollar una interfaz pulida y fácil de usar, optimizada para los dispositivos móviles y de escritorio, con botones grandes y alto contraste para uso en obra.
+ - Ofrecer un modelo freemium con funciones básicas gratuitas y suscripciones premium a un costo reducido, manteniendo la calidad del sistema mediante actualizaciones comunitarias
+
+**Afrontando las debilidades de nuestros competidores**
+**Estrategia:**
+  Brindar un sistema que se especialice en las necesidades de empresas constructoras medianas, abarcando roles específicos, con una interfaz amigable y práctica que no requiera capacitación extensa, a diferencia de competidores como Procore y Autodesk Construction Cloud.
+
+**Tácticas:**
+ - Desarrollar una interfaz simple y práctica, con incorporación en menos de 5 minutos y ayuda contextual en varios idiomas.
+ - Diseñar el sistema especializado en constructoras medianas, con funcionalidades como anotaciones sin conexión, tableros por rol y micro-planificación diaria, resolviendo problemas específicos que competidores no abordan.
+
+**Afrontando las oportunidades de nuestros competidores**
+**Estrategia:**
+ Atraer usuarios potenciales de la competencia, especialmente de Fieldwire y Buildertrend, que buscan soluciones más accesibles y personalizables.
+
+**Tácticas:**
+  - Publicitarnos en plataformas conocidas como LinkedIn, X (antes twitter) y foros de construcción, destacando testimonios de usuarios y el modelo open-source.
+  - Ofrecer talleres gratuitos en comunidades de construcción para mostrar las ventajas de IronGrid frente a competidores.
+
+**Afrontando las amenazas de nuestros competidores**
+**Estrategia:**
+Mantener actualizaciones constantes y una cobertura internacional para competir con la escalabilidad de competidores como Procore.
+
+**Tácticas:**
+ - Realizar actualizaciones al aparecer cualquier fallo, aprovechando la agilidad del modelo open-source y la comunidad para iterar rápidamente.
+ - Expandir la cobertura internacional con soporte multilingüe y plantillas adaptadas a normativas locales, empezando por mercados emergentes como América Latina.
+
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
