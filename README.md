@@ -658,6 +658,7 @@ Queremos que la plataforma se sienta moderna y sencilla para el usuario para que
 - **Formalidad:** Accesible pero profesional, con un lenguaje claro que invite al uso sencillo de la plataforma.
 - **Estilo de Mensajes:** Directo y claro, evitando jerga técnica innecesaria.
 - **Entusiasmo:** Transmitiendo optimismo sobre el impacto positivo en la gestion de las tareas.
+
 ### **4.1.2. Web Style Guidelines**
 En esta sección se mostrará con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
 
@@ -676,7 +677,36 @@ En esta sección se mostrará con ilustraciones las decisiones tomadas en los es
   Para la organización visual, utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención.
 
 ### **4.2.2. Labeling Systems**
+ Para establecer un sistema de etiquetado eficiente en nuestra aplicación usamos un lenguaje formal para que nuestros nuevos
+ usuarios puedan identificar facilmente estas etiquetas.
+
+---
+
+### Etiquetas en la Landing Page:
+
+| **Etiqueta** | **Descripción**                                                                                |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| Inicio       | Apartado donde se muestra una introducción de lo que trata. |
+| Funcionalidades  | Apartado donde se muestran muestran los beneficios de la aplicación.     |
+| Suscríbete   | Apartado donde puedes suscribirte para tener beneficios adicionales.                                 |
+| Contáctanos  | Apartado donde el usuario puede comunicarse con nosotros ante cualquier duda.                 |
+| Comenzar     | Apartado que te redirige a la aplicación web.                                                  |
+
 ### **4.2.3. SEO Tags and Meta Tags**
+Se utilizaron los siguientes tags en el desarrollo:
+
+- SEO tag Header: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
+
+- SEO tah Url: Emplearemos una Url sencilla para la búsqueda.
+
+- Meta title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
+
+- Meta tag Author: Es el autor de la página, en este caso utilizamos el nombre del startup.
+
+- Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
+
+- Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
+- 
 ### **4.2.4. Searching Systems**
 ### **4.2.5. Navigation Systems**
 
