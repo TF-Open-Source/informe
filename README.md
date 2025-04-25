@@ -764,9 +764,27 @@ Se utilizaron los siguientes tags en el desarrollo:
 - Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
 
 - Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
-- 
 ### **4.2.4. Searching Systems**
+Implementaremos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Utilizaremos un sistema de búsqueda por texto que permita a los usuarios encontrar la tarea respectiva de una manera rápida. Los sistemas de búsqueda que se usarán son:
+
+- Barra de búsqueda: Estos servirán para ayudar al usuario a encontrar la tarea que busca.
+- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
+
 ### **4.2.5. Navigation Systems**
+Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan sus numerosas funcionalidades.
+Como sistema de navegación, para el landing page, nos encargamos de realizar una página vertical con poco texto donde el usuario pueda navegar sin saltarse a otra página y confundirse por la inmensidad de información. Nuestro landing page cuenta con secciones como:
+
+- Funcionalidades: El usuario podrá visualizar las funcionalidad y beneficios que tienen por usar nuestra aplicación.
+- Contactanos: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Experiencia: El usuario podrá visualizar los comentarios y opiniones de otros usuarios.
+- Start: El usuario en la sección de "Prueba Gratis Ahora" podrá ir a la web, donde lo mandará primero a iniciar sesión o registrarse para probar la web.
+
+Como sistema de navegación, para la web, optamos emplear una barra de menú horizontal en la parte superior que guiará al usuario por las diferentes secciones con títulos y botones estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
+
+- About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
+- Subscription: Aquí podrá obtener toda la información de los beneficios de la suscripción que la aplicación le ofrece.
+- Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Barra de búsqueda: Se usa la barra denavegación para poder realizar la búsqueda que quiera el usuario.
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
