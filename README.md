@@ -625,8 +625,46 @@ Mantener actualizaciones constantes y una cobertura internacional para competir 
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
+**Obreros y Capataces.**
+**Preguntas demográficas**
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Cuál es tu rol en la obra (obrero, capataz, otro)?
+- ¿En qué región o distrito trabajas habitualmente?
+
+**Preguntas Principales:**
+- ¿Qué herramientas o métodos usas actualmente para organizar y seguir tus tareas diarias en la obra? ¿Usas alguna aplicación o dispositivo móvil? ¿Cuál es?
+- ¿Cuánto tiempo te toma coordinar tus tareas diarias con el equipo (por ejemplo, asignar trabajos, revisar planos)?
+- ¿Cuáles son las tareas que más tiempo te toman completar? ¿Por qué crees que ocurre esto?
+- ¿Alguna vez han tenido problemas en la obra relacionados con la coordinación de tareas o comunicación con el equipo? ¿De qué trató el problema?
+- ¿Has tenido dificultades para acceder a información (como planos, notas, o asignaciones) mientras estás en obra, especialmente en áreas sin conexión a internet? ¿Cómo lo solucionaste?
+
+**Preguntas sobre el proyecto:**
+- ¿Has escuchado de una aplicación que brinde servicios similares a los que ofrece IronGrid Systems, como gestión de tareas sin conexión o tableros por rol?
+- ¿Crees que nuestra aplicación podría resolver los problemas que enfrentas en la gestión de tareas en obra?
+- Al conocer las funcionalidades de IronGrid (como anotaciones sin conexión, micro-planificación diaria, biblioteca de plantillas), ¿qué otras características te gustaría ver en nuestra aplicación?
+
+**Gerentes de Proyecto: **
+**Preguntas demográficas**
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Cuántos proyectos sueles supervisar al mismo tiempo?
+- ¿En qué región o distrito operas principalmente?
+
+**Preguntas Principales:**
+- ¿Cómo manejas actualmente la planificación y seguimiento de tareas en tus proyectos de construcción?
+- ¿Cuáles son los principales desafíos que enfrentas al coordinar equipos y recursos en obra?
+- ¿Utilizas algún sistema o herramienta para hacer seguimiento del progreso de las tareas? ¿Cuánto tiempo toma actualizar y revisar este progreso?
+- ¿Has enfrentado retrasos en proyectos debido a problemas de comunicación o dependencias entre tareas? ¿Cómo los manejaste?
+
+**Preguntas sobre el proyecto:**
+- ¿Has escuchado de alguna aplicación o plataforma que facilite la gestión de tareas en obra, como IronGrid Systems?
+- ¿Qué características o funcionalidades te gustaría ver en una aplicación diseñada para ayudar a gerentes de proyecto a coordinar tareas y equipos?
+- ¿Estarías interesado en probar una versión beta de IronGrid Systems y proporcionar retroalimentación sobre su funcionalidad y usabilidad?
+- ¿Qué expectativas tienes en cuanto a costos y beneficios para utilizar una plataforma como la nuestra en tus proyectos?
 ### **2.2.2. Registro de entrevistas**
 ### **2.2.3. Análisis de entrevistas**
+**Análisis de Entrevistas**
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
