@@ -26,7 +26,7 @@
 | Chavez Viera Joseph Manuel          | U202314019    |
 | Estrada Cajamune Abraham Andres    |  U202112164   |
 | Travezaño Patiño, Eduard Gedeon    | U20211A789  |
-|           |      |
+| Cueva Elera, Erick Armando          | U201910151     |
 
 
 
@@ -589,7 +589,7 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 Teniendo identificados las fortalezas, debilidades, oportunidades y amenazas de nuestros principales competidores.
-Plantearemos las estrategias y tácticas frente a ellos.
+Plantearemos las estrategias y tácticas frente a ellos:
 
 **Afrontando las fortalezas de nuestros competidores**
 **Estrategia:**
@@ -626,45 +626,6 @@ Mantener actualizaciones constantes y una cobertura internacional para competir 
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
-**Obreros y Capataces.**
-**Preguntas demográficas**
- - ¿Cuál es tu nombre?
- - ¿Qué edad tienes?
- - ¿Cuál es tu rol en la obra (obrero, capataz, otro)?
- - ¿En qué región o distrito trabajas habitualmente?
-
-**Preguntas Principales:**
-  - ¿Qué herramientas o métodos usas actualmente para organizar y seguir tus tareas diarias en la obra? ¿Usas alguna aplicación o dispositivo móvil? ¿Cuál es?
-  - ¿Cuánto tiempo te toma coordinar tus tareas diarias con el equipo (por ejemplo, asignar trabajos, revisar planos)?
-  - ¿Cuáles son las tareas que más tiempo te toman completar? ¿Por qué crees que ocurre esto?
-  - ¿Alguna vez han tenido problemas en la obra relacionados con la coordinación de tareas o comunicación con el equipo? ¿De qué trató el problema?
-  - ¿Has tenido dificultades para acceder a información (como planos, notas, o asignaciones) mientras estás en obra, especialmente en áreas sin conexión a internet? ¿Cómo lo solucionaste?
-
-**Preguntas sobre el proyecto:**
- - ¿Has escuchado de una aplicación que brinde servicios similares a los que ofrece IronGrid Systems, como gestión de tareas sin conexión o tableros por rol?
- - ¿Crees que nuestra aplicación podría resolver los problemas que enfrentas en la gestión de tareas en obra?
- - Al conocer las funcionalidades de IronGrid (como anotaciones sin conexión, micro-planificación diaria, biblioteca de plantillas), ¿qué otras características te gustaría ver en nuestra aplicación?
-
-**Gerentes de Proyecto: **
-**Preguntas demográficas**
- - ¿Cuál es tu nombre?
- - ¿Qué edad tienes?
- - ¿Cuántos proyectos sueles supervisar al mismo tiempo?
- - ¿En qué región o distrito operas principalmente?
-
-**Preguntas Principales:**
- - ¿Cómo manejas actualmente la planificación y seguimiento de tareas en tus proyectos de construcción?
- - ¿Cuáles son los principales desafíos que enfrentas al coordinar equipos y recursos en obra?
- - ¿Utilizas algún sistema o herramienta para hacer seguimiento del progreso de las tareas? ¿Cuánto tiempo toma actualizar y revisar este progreso?
- - ¿Has enfrentado retrasos en proyectos debido a problemas de comunicación o dependencias entre tareas? ¿Cómo los manejaste?
-
-**Preguntas sobre el proyecto:**
- - ¿Has escuchado de alguna aplicación o plataforma que facilite la gestión de tareas en obra, como IronGrid Systems?
- - ¿Qué características o funcionalidades te gustaría ver en una aplicación diseñada para ayudar a gerentes de proyecto a coordinar tareas y equipos?
- - ¿Estarías interesado en probar una versión beta de IronGrid Systems y proporcionar retroalimentación sobre su funcionalidad y usabilidad?
- - ¿Qué expectativas tienes en cuanto a costos y beneficios para utilizar una plataforma como la nuestra en tus proyectos?
-
-
 ### **2.2.2. Registro de entrevistas**
 ### **2.2.3. Análisis de entrevistas**
 
@@ -1005,46 +966,40 @@ A continuación, presentamos el Sprint 1 de nuestro proyecto, el cual está enfo
 |Sprint 0 Review Summary                   |Debido a que es nuestro primer Sprint, no existe un Review Summary del Sprint anterior                        |
 |Sprint 0 Retrospective Summary|Debido a que es nuestro primer Sprint, no existe un Retrospective Summary           |
 |Sprint Goal & User Stories|               |
-|Sprint 1 Goal              | |
+|Sprint 1 Goal              |Our focus is on desarrollar y desplegar la landing page del proyecto We believe it delivers interés e información to personas que estén interesadas en un software de gestión de obras para empresas medianas This will be confirmed when las personas interesadas se contacten con nosotros para mayor información acerca de nuestro software |
 |Sprint 1 Velocity| |
 |Sum of Story Points| |
-### **5.2.1.2. Sprint Backlog 1**
-### **5.2.1.3. Development Evidence for Sprint Review**
-### **5.2.1.4. Testing Suite Evidence for Sprint Review**
-### **5.2.1.5. Execution Evidence for Sprint Review**
-### **5.2.1.6. Services Documentation Evidence for Sprint Review**
-### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+### **5.2.1.2. Aspect Leaders and Collaborators**<br>
+| Team member                                                                                                   | GitHub Username |Desarrollo de la Landing Page|Despliegue de la Landing Page|
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|--|--|
+| Chavez Viera, Joseph Manuel                   | Joseph        |C|C|
+|Cueva Elera, Erick Armando                     | ECueva1809        |  C|C|
+| Estrada Cajamune. Abraham Andrés | Abraham0310         | C|C|
+| Pachas Chavez. Alejandro Alberto      | Alejandropch        |           C|C                      |
+| Rengifo Lozano, David                              | DavidRengifoLoz         | L|L|
+|Travezaño Patiño, Eduard Gedeon                                 | EduardTrave                  |C|C|
+
+### **5.2.1.3. Sprint Backlog 1**<br>
+| Sprint #                                                                                                   | Sprint 1 | | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|-|
+| User Story                   | Work-Item/Task        | | | | | | |
+|Id                     | Title        |Id|Title|Description|Estimation|Assigned To|Status|
+|                        |              |  |  |  |  |  |  |  
+
+### **5.2.1.4. Development Evidence for Sprint Review**<br>
+En este Sprint, hemos desarrollado y desplegado la Landing Page del proyecto. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
+|Repository|Branch|Commid Id|Commit Message| Commit Message Body|Commited on (Date)|
+|-           |  -    |    -    |     -         |       -             |   -               |
+|           |      |        |              |                    |                  |
+### **5.2.1.5. Execution Evidence for Sprint Review**<br>
+En este Sprint, desarrollamos la Landing Page, la cual se encuentra en el siguiente URL: https://irongrid.netlify.app/ <br>
+### **5.2.1.6. Services Documentation Evidence for Sprint Review**<br>
+Al tratarse de una Landing Page, no se requiere de una documentación de servicios.<br>
+### **5.2.1.7. Software Deployment Evidence for Sprint Review**<br>
+En este sprint, hemos realizado el despliegue total de la Landing Page.
+Para el despliegue hemos usado “Netlify”, una plataforma de alojamiento web y automatización de despliegue, que permite publicar sitios y aplicaciones web.<br>
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
 
-## **5.2.2. Sprint 2**
-### **5.2.2.1. Sprint Planning 2**
-### **5.2.2.2. Sprint Backlog 2**
-### **5.2.2.3. Development Evidence for Sprint Review**
-### **5.2.2.4. Testing Suite Evidence for Sprint Review**
-### **5.2.2.5. Execution Evidence for Sprint Review**
-### **5.2.2.6. Services Documentation Evidence for Sprint Review**
-### **5.2.2.7. Software Deployment Evidence for Sprint Review**
-### **5.2.2.8. Team Collaboration Insights during Sprint**
-
-## **5.2.3. Sprint 3**
-### **5.2.3.1. Sprint Planning 3**
-### **5.2.3.2. Sprint Backlog 3**
-### **5.2.3.3. Development Evidence for Sprint Review**
-### **5.2.3.4. Testing Suite Evidence for Sprint Review**
-### **5.2.3.5. Execution Evidence for Sprint Review**
-### **5.2.3.6. Services Documentation Evidence for Sprint Review**
-### **5.2.3.7. Software Deployment Evidence for Sprint Review**
-### **5.2.3.8. Team Collaboration Insights during Sprint**
-
-## **5.2.4. Sprint 4**
-### **5.2.4.1. Sprint Planning 4**
-### **5.2.4.2. Sprint Backlog 4**
-### **5.2.4.3. Development Evidence for Sprint Review**
-### **5.2.4.4. Testing Suite Evidence for Sprint Review**
-### **5.2.4.5. Execution Evidence for Sprint Review**
-### **5.2.4.6. Services Documentation Evidence for Sprint Review**
-### **5.2.4.7. Software Deployment Evidence for Sprint Review**
-### **5.2.4.8. Team Collaboration Insights during Sprint**
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
