@@ -208,19 +208,18 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 <p>
     <h3>Solución y Propuesta Tecnológica</h3>
     <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
-    <ul>
+<ul>
 <p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
 <p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras           y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de                construcción.</p>
 <h3>Solución y Propuesta Tecnológica</h3>
 <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
-<ul>
+  <ul>
 
         <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
         <li><strong>Accesibilidad Multidispositivo:</strong> Interfaz intuitiva optimizada para uso tanto en oficina como en campo.</li>
         <li><strong>Integración con Servicios Externos:</strong> Conexiones con herramientas de logística y geolocalización.</li>
         <li><strong>Seguridad y Transparencia:</strong> Tecnologías open-source que garantizan estabilidad y escalabilidad.</li>
-
-    </ul>
+  </ul>
 </p>
 <p>
     <h3>Misión y Visión</h3>
