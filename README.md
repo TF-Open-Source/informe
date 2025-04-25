@@ -885,12 +885,34 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
+<img src="./assets/C4/c4-Contexto.png" alt="C4 Context" style="width:100%;">
 ### **4.6.2. Software Architecture Container Diagrams**
+<img src="./assets/C4/c4-Contenedores.png" alt="C4 Container" style="width:100%;">
 ### **4.6.3. Software Architecture Components Diagrams**
+<img src="./assets/C4/c4-Componentes.png" alt="C4 Component" style="width:100%;">
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
+<img src="./assets/Diagram/ClassDiagram.png" alt="Class Diagram" style="width:100%;">
+
 ### **4.7.2. Class Dictionary**
+Usuario: Entidad abstracta que representa a cualquier usuario del sistema, incluyendo sus datos básicos y acceso al perfil. Es extendida por Obrero y Jefe de Obra.
+
+Obrero: Subtipo de Usuario que representa a los trabajadores de campo. Puede visualizar tareas asignadas, marcar tareas como completadas y reportar problemas mediante comentarios.
+
+JefeObra: Subtipo de Usuario que representa a los supervisores o responsables de obra. Tiene permisos para crear, editar y asignar tareas, así como generar reportes de avance.
+
+Perfil: Clase que encapsula la información personal editable de un usuario, como nombre, email, teléfono, foto y otros datos relevantes.
+
+Tarea: Entidad que representa una actividad planificada dentro de la obra. Contiene información como título, descripción, fechas, prioridad, estado actual, comentarios y los usuarios relacionados (creador y asignado).
+
+Comentario: Entidad que permite a los Obreros dejar observaciones o reportes de problemas relacionados a una tarea. Incluye fecha, contenido y autor del comentario.
+
+Reporte: Entidad generada por un Jefe de Obra que agrupa tareas en una fecha determinada, con el objetivo de evaluar el avance del proyecto.
+
+Notificacion: Entidad que representa un mensaje informativo dentro del sistema, enviado a un usuario en una fecha determinada, y que puede marcarse como leída.
+
+CambioEstado (opcional): Entidad que registra cada modificación en el estado de una tarea, incluyendo la fecha, el nuevo estado y el usuario que realizó el cambio. Útil para auditoría y trazabilidad.
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
