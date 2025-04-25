@@ -339,48 +339,48 @@ URL del repositorio de la Organizacion: <https://github.com/AgroRoute>
 <table>
   <tr>
     <th valign="top">
-      <p><b>1. Business Problem</b></p>
-      <p> .</p>
+      <p>1. Business Problem </p>
+      <p>La industria de la construcción enfrenta problemas en la gestión de tareas, planificación y comunicación entre equipos, lo que ocasiona retrasos y sobrecostos.</p>
     </th>
     <th valign="top">
       <p><b>2. Business Outcomes</b></p>
-      <p>-   .</p>
-      <p>-  .</p>
-      <p>-  .</p>
-      <p>-  .</p>
+      <p>- Optimizar la planificación y ejecución de proyectos de construcción.</p>
+      <p>- Reducir errores operativos y mejorar la coordinación entre obra y oficina.</p>
+      <p>- Disminuir tiempos de entrega y costos asociados.</p>
+      <p>- Incrementar la adopción de herramientas digitales para gestión de tareas.</p>
     </th>
     <th rowspan="2" valign="top">
       <p><b>5. Solutions</b></p>
-      <p>- .</p>
-      <p>-  .</p>
+      <p>- Plataforma digital de gestión de proyectos.</p>
+      <p>- Herramientas de comunicación en tiempo real y monitoreo visual.</p>
     </th>
   </tr>
   <tr>
     <td valign="top">
       <p><b>3. Users</b></p>
-      <p>-  .</p>
-      <p>-  .</p>
-      <p>-  .</p>
+      <p>- Empresas constructoras.</p>
+      <p>- Administradores de proyectos.</p>
+      <p>- Supervisores e ingenieros.</p>
     </td>
     <td valign="top">
       <p><b>4. User Benefits</b></p>
-      <p>-  .</p>
-      <p>-  </p>
+      <p>- Mejor planificación y gestión de tareas.</p>
+      <p>- Comunicación fluida y centralizada entre equipos.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <p><b>6. Hypothesis</b></p>
-      <p>- .</p>
-      <p>-  </p>
+      <p>- Creemos que digitalizar la gestión de tareas mejorará la productividad.</p>
+      <p>- Creemos que la comunicación en tiempo real optimizará la coordinación.</p>
     </td>
     <td valign="top">
       <p><b>7. What’s the most important thing we need to learn first?</b></p>
-      <p> .</p>
+      <p>Cómo los equipos de construcción interactúan actualmente con herramientas digitales.</p>
     </td>
     <td valign="top">
       <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
-      <p>.</p>
+      <p>Realizar entrevistas con usuarios y pruebas piloto en entornos reales.</p>
     </td>
   </tr>
 </table>
