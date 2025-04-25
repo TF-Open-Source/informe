@@ -659,9 +659,22 @@ Queremos que la plataforma se sienta moderna y sencilla para el usuario para que
 - **Estilo de Mensajes:** Directo y claro, evitando jerga técnica innecesaria.
 - **Entusiasmo:** Transmitiendo optimismo sobre el impacto positivo en la gestion de las tareas.
 ### **4.1.2. Web Style Guidelines**
+En esta sección se mostrará con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
 
 ## **4.2. Information Architecture**
 ### **4.2.1. Organization Systems**
+- **Jerarquía Visual:**
+ Para mantener la belleza de nuestra plataforma interactiva y flexible, hemos optado por darle prioridad a la interfaz en función de su relevancia para simplificar la interacción con el usuario.
+
+- **Alineación:**
+  En nuestra plataforma, nuestras imágenes y botones se encuentran alineados de manera ordenada. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
+
+- **Organización Secuencial:**
+  Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto, organizaremos la visualización de la lista de **scooters** y **bicicletas**.
+
+- **Esquemas de categorización de contenido de nuestra web:**
+  Para la organización visual, utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención.
+
 ### **4.2.2. Labeling Systems**
 ### **4.2.3. SEO Tags and Meta Tags**
 ### **4.2.4. Searching Systems**
