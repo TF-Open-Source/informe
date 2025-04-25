@@ -664,7 +664,294 @@ Mantener actualizaciones constantes y una cobertura internacional para competir 
 - ¿Qué expectativas tienes en cuanto a costos y beneficios para utilizar una plataforma como la nuestra en tus proyectos?
 ### **2.2.2. Registro de entrevistas**
 ### **2.2.3. Análisis de entrevistas**
-**Análisis de Entrevistas**
+A continuación, se presenta el análisis de las entrevistas simuladas realizadas a tres usuarios clave de IronGrid Systems: un obrero, un jefe de obra y un gerente. Las respuestas se basan en el contexto de la industria de la construcción y las preguntas definidas en la sección 3.5 del informe. El objetivo es identificar necesidades, retos y oportunidades para el diseño del producto.
+
+<hr/>
+
+**Entrevistado 1: Obrero (Carlos Morales, 35 años, 10 años de experiencia)**
+Respuestas
+
+
+
+
+
+¿Qué tipo de tareas realizas diariamente en tu trabajo?
+"Todos los días estoy en obra, normalmente haciendo tareas como excavación, mezcla de concreto, instalación de tuberías o armado de estructuras. Depende del proyecto, pero siempre son tareas físicas que me asigna el jefe de obra por la mañana."
+
+
+
+¿Cómo te comunicas con tu equipo o supervisor durante el día?
+"Hablo directamente con mi jefe de obra cuando está en el sitio. Si no está, a veces le envío un mensaje por WhatsApp o le llamo por teléfono. Entre el equipo, nos gritamos o usamos señas porque hay mucho ruido."
+
+
+
+¿Qué herramientas o métodos utilizas para mantener un registro de tus tareas?
+"No uso nada formal. El jefe de obra me dice qué hacer y yo lo apunto en un cuaderno o en mi celular si es algo importante. A veces se me olvida y tengo que preguntarle otra vez."
+
+
+
+¿Qué tan fácil o difícil es para ti acceder a la información sobre tus tareas diarias?
+"Es un poco difícil porque dependo de lo que me diga el jefe. Si no está, no sé qué hacer. Además, a veces no tengo señal en el sitio para buscar algo en el celular, y los planos que me dan en papel no siempre están actualizados."
+
+
+
+¿Qué desafíos enfrentas al realizar tus tareas asignadas?
+"El mayor problema es cuando falta material o herramientas, y no me avisan con tiempo. También, si hay cambios en las tareas y no me entero, pierdo tiempo. Y trabajar sin internet en sitios remotos es complicado porque no puedo buscar información o hablar con alguien rápido."
+
+Análisis
+
+
+
+
+
+Tareas Diarias (Pregunta 1): Los obreros realizan tareas físicas variadas (excavación, instalación, armado), lo que indica que necesitan una interfaz simple y visual para consultar sus asignaciones sin complicaciones.
+
+
+
+Comunicación (Pregunta 2): La comunicación depende de métodos informales (WhatsApp, gritos, señas), lo que sugiere la necesidad de un sistema de chat integrado en la aplicación para facilitar la comunicación en tiempo real, incluso con ruido ambiental (notificaciones visuales).
+
+
+
+Registro de Tareas (Pregunta 3): La falta de un sistema formal (uso de cuadernos o memoria) implica que los obreros se beneficiarían de una herramienta digital que centralice las tareas y permita registrar avances fácilmente.
+
+
+
+Acceso a Información (Pregunta 4): La dificultad para acceder a información actualizada, especialmente sin conexión, resalta la importancia de la funcionalidad offline (anotaciones, planos precargados) y notificaciones claras sobre cambios.
+
+
+
+Desafíos (Pregunta 5): Los retrasos por falta de materiales y la desconexión en sitios remotos son problemas clave. Esto refuerza la necesidad de un sistema que permita reportar incidencias rápidamente y funcione sin internet.
+
+Hallazgos Clave:
+
+
+
+
+
+Necesidad de una interfaz simple con tareas claras y visuales.
+
+
+
+Funcionalidad offline crítica para sitios remotos.
+
+
+
+Sistema de comunicación integrado para evitar métodos informales.
+
+
+
+Reporte de incidencias (falta de materiales, cambios) en tiempo real.
+
+
+**Entrevistado 2: Jefe de Obra (Ana Gómez, 42 años, 15 años de experiencia)**
+
+Respuestas
+
+
+
+
+
+¿Cómo asignas tareas a tu equipo y cómo haces seguimiento de su progreso?
+"Cada mañana reúno al equipo y les digo qué hacer, según el plan que me pasa el gerente. Para el seguimiento, voy pasando por la obra y les pregunto cómo van. A veces uso una hoja de Excel en mi laptop, pero es difícil actualizarla en el momento."
+
+
+
+¿Qué tan frecuentemente enfrentas retrasos en los proyectos y cómo los manejas?
+"Los retrasos pasan casi todas las semanas. Normalmente son por falta de materiales o porque una tarea previa no se terminó a tiempo. Intento reprogramar las tareas y hablo con el gerente para ajustar el plan, pero es un proceso lento porque no tengo toda la información a la mano."
+
+
+
+¿Qué herramientas utilizas para planificar y coordinar las actividades diarias?
+"Uso Excel para hacer un cronograma y WhatsApp para hablar con el equipo y el gerente. También tengo una pizarra en la oficina de la obra para anotar las tareas del día, pero no siempre está actualizada."
+
+
+
+¿Cómo te comunicas con los obreros y los gerentes?
+"Con los obreros hablo en persona o por WhatsApp si estoy fuera de la obra. Con el gerente, normalmente por correo o WhatsApp también. A veces hay malentendidos porque los mensajes no son claros o se pierden."
+
+
+
+¿Qué aspectos de tu trabajo te gustaría mejorar con una herramienta digital?
+"Me gustaría tener una forma más rápida de asignar tareas y ver cómo va todo sin tener que caminar por toda la obra. También quisiera ver los retrasos y sus impactos de forma clara, y poder hablar con todos desde un solo lugar sin depender de WhatsApp."
+
+Análisis
+
+
+
+
+
+Asignación y Seguimiento (Pregunta 1): La asignación manual y el seguimiento presencial son ineficientes. Una herramienta digital con tableros kanban (por rol) y notificaciones de progreso ayudaría a agilizar el proceso.
+
+
+
+Retrasos (Pregunta 2): Los retrasos son frecuentes y la reprogramación es lenta debido a la falta de visibilidad. Un visualizador de dependencias entre tareas y alertas de retrasos sería útil para anticipar problemas.
+
+
+
+Herramientas de Planificación (Pregunta 3): El uso de Excel y pizarras indica una falta de herramientas integradas. Una funcionalidad de micro-planificación diaria (calendario) y tableros actualizados en tiempo real sería ideal.
+
+
+
+Comunicación (Pregunta 4): La dependencia de WhatsApp y correo genera malentendidos. Un sistema de chat integrado en la plataforma, con mensajes claros y organizados, mejoraría la comunicación.
+
+
+
+Mejoras Deseadas (Pregunta 5): La necesidad de visibilidad (progreso, retrasos) y comunicación centralizada resalta la importancia de tableros por rol, visualización de dependencias y un sistema de mensajería interno.
+
+Hallazgos Clave:
+
+
+
+
+
+Necesidad de tableros kanban para asignar y rastrear tareas.
+
+
+
+Visualizador de dependencias para manejar retrasos.
+
+
+
+Micro-planificación diaria para coordinar actividades.
+
+
+
+Chat integrado para mejorar la comunicación con obreros y gerentes.
+
+
+
+**Entrevistado 3: Gerente (Luis Ramírez, 50 años, 20 años de experiencia)**
+Respuestas
+
+
+
+
+
+¿Cómo supervisas el progreso general de los proyectos?
+"Pido reportes semanales a los jefes de obra y los reviso en reuniones. También uso un software de gestión de proyectos, pero no es muy intuitivo y me toma tiempo entender los datos. A veces visito las obras para ver cómo va todo."
+
+
+
+¿Qué tan importante es para ti visualizar las dependencias entre tareas?
+"Es muy importante. Si una tarea se retrasa, quiero saber cómo afecta al resto del proyecto para tomar decisiones rápidas, como asignar más recursos. Ahora mismo, dependo de los reportes del jefe de obra, y no siempre tengo esa información clara."
+
+
+
+¿Qué métricas o reportes utilizas para tomar decisiones?
+"Me interesa el porcentaje de avance por etapa, los retrasos por tarea y el rendimiento de los equipos. Uso hojas de Excel que me pasa el jefe de obra, pero me gustaría tener reportes más visuales y actualizados al momento."
+
+
+
+¿Qué desafíos enfrentas al coordinar múltiples equipos o proyectos?
+"El mayor desafío es la falta de comunicación entre equipos. A veces un equipo no sabe que otro está retrasado, y eso genera más problemas. También es difícil tener una visión general de todos los proyectos a la vez."
+
+
+
+¿Qué características esperas de una herramienta de gestión de proyectos?
+"Quiero algo que me muestre el progreso en tiempo real, con gráficos claros de dependencias y retrasos. También me gustaría generar reportes automáticos y poder comunicarme con los jefes de obra directamente desde la herramienta."
+
+Análisis
+
+
+
+
+
+Supervisión (Pregunta 1): La supervisión actual es manual y lenta (reuniones, reportes semanales). Una herramienta con tableros en tiempo real y métricas visuales (gráficos) mejoraría la eficiencia.
+
+
+
+Dependencias (Pregunta 2): La visualización de dependencias es crítica para la toma de decisiones. Un visualizador de dependencias interactivo (gráfico de nodos) permitiría identificar impactos rápidamente.
+
+
+
+Métricas y Reportes (Pregunta 3): El gerente necesita métricas visuales y actualizadas (avance, retrasos, rendimiento). La funcionalidad de reportes automáticos con gráficos (barras, líneas) sería muy útil.
+
+
+
+Coordinación (Pregunta 4): La falta de comunicación entre equipos genera retrasos en cascada. Un sistema de notificaciones y chat integrado ayudaría a mantener a todos alineados.
+
+
+
+Características Deseadas (Pregunta 5): Las expectativas incluyen progreso en tiempo real, visualización clara y comunicación directa. Esto valida la necesidad de tableros, visualización de dependencias, reportes automáticos y un sistema de mensajería.
+
+Hallazgos Clave:
+
+
+
+
+
+Necesidad de tableros en tiempo real con métricas visuales.
+
+
+
+Visualizador de dependencias interactivo para decisiones rápidas.
+
+
+
+Reportes automáticos con gráficos claros (avance, retrasos).
+
+
+
+Comunicación integrada para coordinar equipos.
+
+
+**Conclusiones Generales**
+
+Necesidades Comunes
+
+
+
+
+
+Comunicación Eficiente: Todos los roles dependen de métodos informales (WhatsApp, reuniones presenciales), lo que genera malentendidos y retrasos. Un sistema de chat integrado es esencial.
+
+
+
+Visibilidad en Tiempo Real: Obreros, jefes de obra y gerentes necesitan información actualizada (tareas, retrasos, dependencias). Esto valida el diseño de tableros por rol y notificaciones.
+
+
+
+Funcionalidad Offline: Los obreros, que trabajan en sitios remotos, requieren acceso a tareas y planos sin conexión, lo que refuerza la importancia de esta característica.
+
+Retos Principales
+
+
+
+
+
+Falta de Centralización: Los métodos actuales (Excel, cuadernos, pizarras) no están integrados, lo que genera ineficiencias. IronGrid Systems debe centralizar tareas, comunicación y reportes.
+
+
+
+Retrasos y Dependencias: Los retrasos son frecuentes y afectan a todos los roles. Un visualizador de dependencias y alertas automáticas ayudarían a mitigar estos problemas.
+
+
+
+Acceso a Información: La dificultad para acceder a datos actualizados (especialmente sin conexión) es un problema recurrente, especialmente para obreros.
+
+Oportunidades para IronGrid Systems
+
+
+
+
+
+Interfaz Intuitiva: Diseñar una interfaz simple para obreros (botones grandes, visual), con tableros kanban para jefes de obra y gráficos para gerentes.
+
+
+
+Comunicación Integrada: Implementar un chat en tiempo real para reducir la dependencia de herramientas externas.
+
+
+
+Soporte Offline: Asegurar que las funcionalidades clave (tareas, planos, reportes de incidencias) estén disponibles sin conexión.
+
+
+
+Automatización: Incluir reportes automáticos y alertas de retrasos para agilizar la toma de decisiones.
+
+
+
+Visualización de Dependencias: Proporcionar un gráfico interactivo que muestre cómo los retrasos afectan otras tareas, beneficiando especialmente a gerentes y jefes de obra.
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
