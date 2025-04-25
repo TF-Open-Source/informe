@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
+  <img width=140 src="assets/Logo_UPC.png"/>
 </div>
 
 <br>
@@ -205,17 +205,16 @@ URL del repositorio de la Organizacion: <https://github.com/TF-Open-Source>
 ### **1.1.1. Descripción de la Startup**
  <p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
     <p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de construcción.</p>
-<p>
-    <h3>Solución y Propuesta Tecnológica</h3>
+    
+<h3>Solución y Propuesta Tecnológica</h3>
     <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
-<ul>
 <p><strong>Nombre de la Startup:</strong> IronGrid Systems</p>
 <p>IronGrid Systems es una startup enfocada en transformar la gestión de tareas en equipos de construcción mediante herramientas tecnológicas innovadoras           y adaptables. Su propósito es brindar soluciones eficientes que optimicen la planificación, coordinación y monitoreo de actividades en proyectos de                construcción.</p>
 <h3>Solución y Propuesta Tecnológica</h3>
 <p>Nuestra plataforma digital permite a las empresas constructoras administrar tareas de manera organizada y mejorar la comunicación entre sus equipos. Para ello, IronGrid Systems integra:</p>
-  <ul>
+<ul>
 
-        <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
+  <li><strong>Gestión Visual:</strong> Tableros interactivos para visualizar el progreso de las tareas.</li>
         <li><strong>Accesibilidad Multidispositivo:</strong> Interfaz intuitiva optimizada para uso tanto en oficina como en campo.</li>
         <li><strong>Integración con Servicios Externos:</strong> Conexiones con herramientas de logística y geolocalización.</li>
         <li><strong>Seguridad y Transparencia:</strong> Tecnologías open-source que garantizan estabilidad y escalabilidad.</li>
@@ -956,10 +955,10 @@ Visualización de Dependencias: Proporcionar un gráfico interactivo que muestre
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
 **Segmento 1:** Obrero de Constructura.  
-<img src="./assets/cap-2/user-personas/Carlos-Morales-Obrero.png" alt="User Persona" style="width:100%;">
+<img src="./assets/user-personas/Carlos-Morales-Obrero.png" alt="User Persona" style="width:100%;">
 
 **Segmento 2:** Jefe de Obras de Constructura.
-<img src="./assets/cap-2/user-personas/Maria-Fernandez-Jefe-de-Obras.png" alt="User Persona" style="width:100%;">
+<img src="./assets/user-personas/Maria-Fernandez-Jefe-de-Obras.png" alt="User Persona" style="width:100%;">
 
 ### **2.3.2. User Task Matrix**
 
@@ -1022,10 +1021,10 @@ Why would they invite others?
 
 ### **2.3.4. Empathy Mapping**
 **Segmento 1:** Obrero.  
-<img src="./assets/cap-2/empathy-maps/Obrero.png" alt="User Persona" style="width:100%;">
+<img src="./assets/empathy-maps/Obrero.png" alt="User Persona" style="width:100%;">
 
 **Segmento 2:** Jefe de Obras.
-<img src="./assets/cap-2/empathy-maps/Jefe-de-Obras.png" alt="User Persona" style="width:100%;">
+<img src="./assets/empathy-maps/Jefe-de-Obras.png" alt="User Persona" style="width:100%;">
 
 ### **2.3.5. As-is Scenario Mapping**
 
@@ -1196,6 +1195,8 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 - Barra de búsqueda: Se usa la barra denavegación para poder realizar la búsqueda que quiera el usuario.
 
 ## **4.3. Landing Page UI Design**
+<p>En el siguiente punto se abordará el diseño de la interfaz de usuario de la página de aterrizaje, la primera impresión visual y funcional que los usuarios tienen al interactuar con un sitio web. Este diseño tiene como objetivo captar la atención, guiar a los usuarios hacia una acción específica y ofrecer una experiencia intuitiva. Se enfoca en la disposición efectiva de los elementos visuales, como los llamados a la acción (CTAs), contenido relevante y diseño responsivo, asegurando que la página sea atractiva, fácil de navegar y optimizada para convertir visitantes en usuarios o cliente</p>
+
 ### **4.3.1. Landing Page Wireframe**
 ### **4.3.2. Landing Page Mock-up**
 
