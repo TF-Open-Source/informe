@@ -1095,6 +1095,17 @@ Why would they invite others?
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+Introducción
+En el caso del To-Be Scenario Mapping, el equipo definió cómo se visualizaría el flujo de trabajo una vez que la solución CaféLab haya sido implementada en los dos segmentos objetivos: Obrero y Jefe de Obras.
+El propósito de este artefacto es analizar y mejorar los aspectos negativos identificados en el As-Is Scenario, optimizando los procesos de monitoreo, registro y retroalimentación, y elevando la calidad del café, la eficiencia operativa y la capacidad para tomar decisiones informadas.
+
+Obrero
+<img width="140" src="https://github.com/TF-Open-Source/informe/blob/main/assets/Miro/TO_BE/OBRERO.png?raw=true"/>
+
+Jefe de Obras
+<img width="140" src="https://github.com/TF-Open-Source/informe/blob/main/assets/Miro/TO_BE/Jefe%20de%20Obras.png?raw=true"/>
+
+
 ## *3.2. User Stories*
 | Epic/User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |-------|--------|------------|----------------------|-------------|
