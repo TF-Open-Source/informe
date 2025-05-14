@@ -1282,7 +1282,14 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 <img width=400 height=600 src="assets/Landing/Landing_Page_MockUp.jpg">
 
 ## **4.5. Web Applications Prototyping**
-
+- **Login/Signup**
+- **Perfil**
+- **Seleccionar Obrero**
+- **Notificaciones-Obrero**
+- **Tareas-Obrero**
+- **Notificaciones-Jefe Obra**
+- **Tablero de Tareas-Jefe Obra**
+- **Gestion de Tareas-Jefe Obra**
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
 <img src="./assets/C4/c4-Contexto.png" alt="C4 Context" style="width:100%;">
