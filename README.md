@@ -1283,25 +1283,37 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 
 ## **4.5. Web Applications Prototyping**
 - **Login/Signup**
-  <br>
   <img src="assets/Prototyping/Iniciar sesión.png" style="width:100%;">
-  <br>
   <img src="assets/Prototyping/Iniciar sesión-2.png" style="width:100%;">
-  <br>
   <img src="assets/Prototyping/Iniciar sesión-1.png" style="width:100%;">
-  <br>
   <img src="assets/Prototyping/Crear cuenta.png" style="width:100%;">
-  <br>
   <img src="assets/Prototyping/Confirmacion de Creacion de Cuenta.png" style="width:100%;">
-  <br>
 - **Perfil**
-  
+  <img src="assets/Prototyping/Perfil.png" style="width:100%;">
 - **Seleccionar Obrero**
+  <img src="assets/Prototyping/Perfil-1.png" style="width:100%;">
+  <img src="assets/Prototyping/Perfil-2.png" style="width:100%;">
+  <img src="assets/Prototyping/Perfil-3.png" style="width:100%;">
+  <img src="assets/Prototyping/Perfil-4.png" style="width:100%;">
 - **Notificaciones-Obrero**
+  <img src="assets/Prototyping/Notificaciones.png" style="width:100%;">
+  <img src="assets/Prototyping/Notificaciones-1.png" style="width:100%;">
+  <img src="assets/Prototyping/Perfil-5.png" style="width:100%;">
 - **Tareas-Obrero**
+  <img src="assets/Prototyping/Tareas.png" style="width:100%;">
+  <img src="assets/Prototyping/Tareas - Descripcion.png" style="width:100%;">
+  <img src="assets/Prototyping/Tareas - Problemas.png" style="width:100%;">
+  <img src="assets/Prototyping/Tareas - Problemas - Confirmacion.png" style="width:100%;">
 - **Notificaciones-Jefe Obra**
+  <img src="assets/Prototyping/Notificaciones - Jefe de Obra.png" style="width:100%;">
+  <img src="assets/Prototyping/Notificaciones - Jefe de Obra - Descripcion.png" style="width:100%;">
 - **Tablero de Tareas-Jefe Obra**
+  <img src="assets/Prototyping/Tablero de Tareas.png" style="width:100%;">
+  <img src="assets/Prototyping/Tablero de Tareas - Descripción - Bloquear Tarea.png" style="width:100%;">
+  <img src="assets/Prototyping/Tablero de Tareas - Descripción - Desbloquear Tarea.png" style="width:100%;">
 - **Gestion de Tareas-Jefe Obra**
+  <img src="assets/Prototyping/Gestion Tareas.png" style="width:100%;">
+  <img src="assets/Prototyping/Tareas-1.png" style="width:100%;">
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
 <img src="./assets/C4/c4-Contexto.png" alt="C4 Context" style="width:100%;">
