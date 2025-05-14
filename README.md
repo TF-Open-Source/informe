@@ -1543,6 +1543,7 @@ Para el despliegue hemos usado “Netlify”, una plataforma de alojamiento web 
 ### **5.3.3. Evaluaciones según heurísticas**
 
 ## **5.4. Video About-the-Product**
+Video sobre la landing page: https://upcedupe-my.sharepoint.com/personal/u20211a789_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a789%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideoAboutTheLandingPage%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2cddd86%2Dd230%2D46ff%2Da1d3%2D896e159b72a3<br>
 
 # **Conclusiones**
 # **Conclusiones y recomendaciones**
