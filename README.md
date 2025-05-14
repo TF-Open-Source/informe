@@ -1471,6 +1471,71 @@ Para el despliegue hemos usado “Netlify”, una plataforma de alojamiento web 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
 <img src="./assets/Cap5/img_erick5.jpeg"><br>
 
+## **5.2.2. Sprint 2**
+### **5.2.2.1. Sprint Planning 2**<br>
+A continuación, presentamos el Sprint 2 de nuestro proyecto, el cual está enfocado en la planificación y desarrollo de la landing page.<br>
+| Sprint #                                                                                                   | Sprint 2 |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|
+| Sprint Planning Background                   |         |
+|Date                     | 2025-05-02        |  
+| Time | 06:00 PM         | 
+| Location      | Virtual - Discord        |                                 |
+| Prepared By                              | Erick Cueva         | 
+|Attendees                                 | Travezaño Patiño, Eduard Gedeon / Rengifo Lozano, David / Pachas Chavez. Alejandro Alberto / Estrada Cajamune. Abraham Andrés / Cueva Elera, Erick Armando                |
+|Sprint 1 Review Summary                   |Se implemento el landing page siguiento las historias de usuario y se hizo deploy en Netflify.                        |
+|Sprint 1 Retrospective Summary|En este sprint 2 trabajaremos lo que es la priemra version del front-end de la app web           |
+|Sprint Goal & User Stories|               |
+|Sprint 2 Goal              |Our focus is on desarrollar y desplegar la primera version de el front-end de la app web We believe it delivers interés y curiosidad to personas que estén interesadas en un software de gestión de obras para empresas medianas This will be confirmed when las personas interesadas esten espectantes a la siguiente version de nuestra app web |
+|Sprint 2 Velocity|20 |
+|Sum of Story Points|20 |
+### **5.2.1.2. Aspect Leaders and Collaborators**<br>
+| Team member| GitHub Username | Desarrollo de el feature Login|Desarrollo del feature Register |Desarrollo del feature Home | Desarrollo del feature Account | Desarrollo del feature Tasks|Desarrollo del feature Configurations| Despliegue del front-end|
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|-|-|
+|Cueva Elera, Erick Armando                     | ECueva1809        |C|L|C|C|C|C|C|
+|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | C | C | L|C|L|C|
+|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| C |C|C|C|L|
+|Rengifo Lozano, David                        |   DavidRengifoLoz           | L | C | L |C|C|C|C|
+|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |C  | C |C|L|C|C|
+
+### **5.2.1.3. Sprint Backlog 2**<br>
+| Sprint #                                                                                                   | Sprint 2 | | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|-|
+| User Story                   | Work-Item/Task        | | | | | | |
+|Id                     | Title        |Id|Title|Description|Estimation|Assigned To|Status|
+|    US04                    | Reporte de progreso de tareas   |W01          | Desarrollo del feature de home|Desarrollar la seccion de home  | 2 |  Rengifo Lozano, David  | in progress | 
+|     US07                   | Dashboard de tareas             | W02 |Desarrollo del feature de tareas  |Desarrollar la seccion de tasks  | 2 | Travezaño Patiño, Eduard Gedeon | in progress |
+|      US03                  | Feature de account             | W03 |Feature de account  | Desarrollar la sección de account | 1.5 | Estrada Cajamune. Abraham Andrés | in progress |
+|      US04                  | Feature log in             | W04 | Feature log in |Desarrollar la sección de log in  | 1 |Rengifo Lozano, David |in progress  |
+|      US05                  | Feature register             | W04 | Feature register |Desarrollar la sección de register  |   1  |Cueva Elera, Erick Armando |in progress  |
+|      US05                  | Despliegue del front-end             | W04 | Despliegue |Desplegar la primera version del front-end de la web app  | 0.5 |Pachas Chavez. Alejandro Alberto |done  |
+
+### **5.2.1.4. Development Evidence for Sprint Review**<br>
+En este Sprint, hemos desarrollado y desplegado la Landing Page del proyecto. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
+|Repository|Branch|Commid Id|Commit Message| Commit Message Body|Commited on (Date)|
+|-           |  -    |    -    |     -         |       -             |   -               |
+|TF-Open-Source/IronGrid---Landing-Page           |master      |53e685c15d1637b374d965e1674336c870a62e31 |Landing page| |22/04/2025|
+|TF-Open-Source/IronGrid---Landing-Page           |master      |3cb1a0a6af13f80bb87dea80892a2a75d38f8e07        | Adding new ui to the landing page             |                    |  24/04/2025              |
+| TF-Open-Source/IronGrid---Landing-Page          |master      |e4abda8c69a57e5eee2df78a982178dcdc7e49c6        |Adding new ui to the landing page with better file distribution              |                    | 24/04/2025               |
+### **5.2.1.5. Execution Evidence for Sprint Review**<br>
+En este Sprint, desarrollamos la primera versión del front-end de la web app, la cual se encuentra en el siguiente URL: https://dainty-douhua-cf71b8.netlify.app/  <br>
+Vista de nuestro home principal:<br>
+[![home.jpg](https://i.postimg.cc/6pgZ6Prz/home.jpg)](https://postimg.cc/68VqYY1G)<br>
+Vista de nuestro register:<br>
+[![register.jpg](https://i.postimg.cc/MTfTXZYF/register.jpg)](https://postimg.cc/cgZZbS2R)<br>
+Vista de nuestro login:<br>
+[![login.jpg](https://i.postimg.cc/Gt1c2Ft4/login.jpg)](https://postimg.cc/CBmyrfj0)<br>
+Vista de account:<br>
+[![account.jpg](https://i.postimg.cc/sxyry3HS/account.jpg)](https://postimg.cc/wyWPQYpT)<br>
+### **5.2.1.6. Services Documentation Evidence for Sprint Review**<br>
+Al tratarse de la primera versión del front-end de la web app, no se requiere de una documentación de servicios.<br>
+### **5.2.1.7. Software Deployment Evidence for Sprint Review**<br>
+En este sprint, hemos realizado el despliegue de la primera versión del front-end de nuestra web app.
+Para el despliegue hemos usado “Netlify”, una plataforma de alojamiento web y automatización de despliegue, que permite publicar sitios y aplicaciones web.<br>
+[![despliegue1.jpg](https://i.postimg.cc/jdcZMRz9/despliegue1.jpg)](https://postimg.cc/fJ3cLnqj)<br>
+[![despliegue2.jpg](https://i.postimg.cc/sg0KRKH4/despliegue2.jpg)](https://postimg.cc/G4GvFPC4)<br>
+### **5.2.1.8. Team Collaboration Insights during Sprint**
+[![insights-sprint-2.jpg](https://i.postimg.cc/7YsCZR3d/insights-sprint-2.jpg)](https://postimg.cc/LnP4yN03)<br>
+
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
