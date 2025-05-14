@@ -1283,7 +1283,19 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
 
 ## **4.5. Web Applications Prototyping**
 - **Login/Signup**
+  <br>
+  <img src="assets/Prototyping/Iniciar sesión.png" style="width:100%;">
+  <br>
+  <img src="assets/Prototyping/Iniciar sesión-2.png" style="width:100%;">
+  <br>
+  <img src="assets/Prototyping/Iniciar sesión-1.png" style="width:100%;">
+  <br>
+  <img src="assets/Prototyping/Crear cuenta.png" style="width:100%;">
+  <br>
+  <img src="assets/Prototyping/Confirmacion de Creacion de Cuenta.png" style="width:100%;">
+  <br>
 - **Perfil**
+  
 - **Seleccionar Obrero**
 - **Notificaciones-Obrero**
 - **Tareas-Obrero**
