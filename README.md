@@ -51,14 +51,16 @@
         <td> Pachas Chavez, Alejandro Alberto,Rengifo Lozano, David,Chavez Viera Joseph Manuel,
         Estrada Cajamune Abraham Andres,
         Travezaño Patiño, Eduard Gedeon
- </td>
+         </td>
         <td>Elaboración del TB1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>02</td>
+        <td>14/05/2025</td>
+        <td>Pachas Chavez, Alejandro Alberto,Rengifo Lozano, David,
+        Estrada Cajamune Abraham Andres,
+        Travezaño Patiño, Eduard Gedeon</td>
+        <td>Elaboración del TP1</td>
     </tr>
     <tr>
         <td></td>
@@ -1316,13 +1318,13 @@ Como sistema de navegación, para la web, optamos emplear una barra de menú hor
   <img src="assets/Prototyping/Tareas-1.png" style="width:100%;">
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
-<img src="./assets/C4/c4-Contexto.png" alt="C4 Context" style="width:100%;">
+<img src="./assets/C4/structurizr-c4-Contexto.png" alt="C4 Context" style="width:100%;">
 
 ### **4.6.2. Software Architecture Container Diagrams**
-<img src="./assets/C4/c4-Contenedores.png" alt="C4 Container" style="width:100%;">
+<img src="./assets/C4/structurizr-c4-Contenedores.png" alt="C4 Container" style="width:100%;">
 
 ### **4.6.3. Software Architecture Components Diagrams**
-<img src="./assets/C4/c4-Componentes.png" alt="C4 Component" style="width:100%;">
+<img src="./assets/C4/structurizr-c4-Componentes.png" alt="C4 Component" style="width:100%;">
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
