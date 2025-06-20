@@ -1642,7 +1642,7 @@ Video sobre la web app: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211
 # **Conclusiones y recomendaciones**
 
 # **Video About-the-Team**<br>
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EZTot79ZGkVPm9eKoSFMMREB2ew4vGtdck2okvQde8A_bg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kgfkEW<br>
 
 # **Bibliografía**
 
