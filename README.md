@@ -1550,19 +1550,19 @@ A continuación, presentamos el Sprint 3 de nuestro proyecto, el cual está enfo
 | Prepared By                              | Erick Cueva         | 
 |Attendees                                 | Travezaño Patiño, Eduard Gedeon / Rengifo Lozano, David / Pachas Chavez. Alejandro Alberto / Estrada Cajamune. Abraham Andrés / Cueva Elera, Erick Armando                |
 |Sprint 2 Review Summary                   |Se implementó la primera versión del front-end y de desplegó en netlify. Además, se termino la landing page en su totalidad.                        |
-|Sprint 2 Retrospective Summary|En este sprint 3 trabajaremos lo que es la primera versión del back-end y se desarrollará la segunda versión del front-end.         |
+|Sprint 2 Retrospective Summary|En este sprint 3 trabajaremos lo que es la primera versión del back-end y se desarrollará la segunda versión del front-end. Además de la implementación de i18n         |
 |Sprint Goal & User Stories|               |
 |Sprint 3 Goal              |Our focus is on desarrollar y desplegar la primera version de el back-end de la app web We believe it delivers interés y curiosidad to personas que estén interesadas en un software de gestión de obras para empresas medianas This will be confirmed when las personas interesadas esten espectantes a la siguiente version de nuestra app web |
 |Sprint 3 Velocity|20 |
 |Sum of Story Points|20 |
 ### **5.2.3.2. Aspect Leaders and Collaborators**<br>
-| Team member| GitHub Username | Desarrollo de la vista inicial|Desarrollo de la vista de personal |Desarrollo del sistema de autenticación IAM | 
-|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|
-|Cueva Elera, Erick Armando                     | ECueva1809        |L|L|C|
-|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | C | C |
-|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| L |
-|Rengifo Lozano, David                        |   DavidRengifoLoz           | C | C | C |
-|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |C  | C |
+| Team member| GitHub Username | Desarrollo de la vista inicial|Desarrollo de la vista de personal |Desarrollo del sistema de autenticación IAM | Desarrollo de endpoint tasks| Implementación de i18n|
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|
+|Cueva Elera, Erick Armando                     | ECueva1809        |L|L|C|C|C|
+|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | C | C | C|L|
+|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| L | C|C|
+|Rengifo Lozano, David                        |   DavidRengifoLoz           | C | C | C | L|C|
+|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |C  | C | L|C|
 
 ### **5.2.3.3. Sprint Backlog 3**<br>
 | Sprint #                                                                                                   | Sprint 3 | | | | | | |
@@ -1572,28 +1572,63 @@ A continuación, presentamos el Sprint 3 de nuestro proyecto, el cual está enfo
 |              | Desarrollo de la vista inicial| W01 | Desarrollo de la vista inicial|Desarrollar la seccion de la vista inicial de la web app  | 2 |  Cueva Elera, Erick Armando  | in progress | 
 |               | Desarrollo de la vista de personal| W02 |Desarrollo de la vista de personal  |Desarrollar la vista con las imagenes e información del historial  | 2 | Cueva Elera, Erick Armando | in progress |
 |              | Desarrollo autenticación IAM| W03 |Desarrollo autenticación IAM  | Desarrollar el sistema de atutenticación IAM | 4 | Pachas Chavez. Alejandro Alberto | in progress |
+|              | Desarrollo del endpoint de tasks| W04 |Desarrollo del endpoint de tasks  | Desarrollar el crud de tasks | 4 |Rengifo Lozano, David. Travezaño Patiño, Eduard Gedeon   | in progress |
+|              | Implementación de i18n| W05 |Implementación de i18n  | Implementar i18n en toda la interfaz de front-end | 4 |Estrada Cajamune. Abraham Andrés   | in progress |
 
 ### **5.2.3.4. Development Evidence for Sprint Review**<br>
-En este Sprint, hemos desarrollado y desplegado la primera versión del back-end. Además, el desarrollo de la segunda versión de el front-end. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
+En este Sprint, hemos desarrollado la primera versión del back-end. Además, el desarrollo de la segunda versión de el front-end. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
 |Repository|Branch|Commid Id|Commit Message| Commit Message Body|Commited on (Date)|
 |-           |  -    |    -    |     -         |       -             |   -               |
-|TF-Open-Source/IronGrid---Landing-Page           |master      |53e685c15d1637b374d965e1674336c870a62e31 |Landing page| |22/04/2025|
+|TF-Open-Source/BuildPlanning-backend|main|69f66222f9699f28a71f5876ab46515dcd500f6a |Initial commit| |17/06/25|
+|TF-Open-Source/BuildPlanning-backend|main|e2d799ce7388d95f75b2b2623a5dd0d5cdfd5516 |chore: adding maven dependencies| |17/06/25|
+|TF-Open-Source/BuildPlanning-backend|main|d93f31c2db334783abbc891b5f5fb7956886d3b1 |feat: dtos/controllers/swagger integration/services for handling user authentication added
+| |17/06/25|
+|TF-Open-Source/BuildPlanning-backend|main|6994261b366ec7d84388cc2565c91624d375f084 |task CRUD added to the API| |20/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|6be6ac00b0788bdce0a18eb020aaec5ee4e7aee4 |Implement i18n to Profile and Configurations| |18/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|660e0ffd840376e8f64bc18c1a84eaa794752cad |Implement i18n to Home| |18/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|a64762598fac7d2e88a2598d5d5baddfae3174d6 |Implement i18n header, footer, tasks, task-details| |18/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|bdfd1373299d43d3b2b30152980f4072b9e73089 |Update page Task| |18/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|8999ab211f96c7d3d93a89a2b78f37f06600fce6 |Implement US02| |18/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|34e16310967034354cd20bc2c09cea0a22316db8 |update Priority icon| |18/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|d9f4f68a509a84ae580f1e47acf8bf1759a3eb7d |Implement Dashboard| |19/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|bd89a7ee759c86768ceebdd1b9e0af111454a745 |Implement US04| |19/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|ea3d02dc9036ba4e25dfd063d03dd9462160bcd9 |Implement section problems to dashboard and tasks| |19/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|5e9e303ed4d39f03524b7e6e8123ebedb3144919 |(feature):added initial page and personal view| |20/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|c75bba8a5d62c6b282ba4d09a1d8c507d65bedb5 |Merge branch 'master' into feature/initialPage-personal| |20/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|b97e3fb4363657525c854c9b37b056c5a44cf137 |Merge pull request #6 from TF-Open-Source/feature/initialPage-personal
+| |20/06/25|
+|TF-Open-Source/BuildPlanner-frontend|master|88a44531bade7e53ccc81630133fb17f60584987 |Implement i18n all project| |20/06/25|
 
 ### **5.2.3.5. Execution Evidence for Sprint Review**<br>
 En este Sprint, desarrollamos la primera versión del back-end. Además, desarrollamos la segunda versión de el front-end de la Web App<br>
 Vista de nuestra pagina inicial:<br>
-
+[![initial.jpg](https://i.postimg.cc/NMNV0d27/initial.jpg)](https://postimg.cc/7G2XsMVf)<br>
 Vista de nuestra sección de personal:<br>
-
+[![personal.jpg](https://i.postimg.cc/j2082Bdf/personal.jpg)](https://postimg.cc/Vrg9HGts)<br>
+[![personal2.jpg](https://i.postimg.cc/858dmMQQ/personal2.jpg)](https://postimg.cc/t15VX142)<br>
+Implementación de i18n:<br>
+[![i18n.jpg](https://i.postimg.cc/Dy79cbnX/i18n.jpg)](https://postimg.cc/JtdYr0yr)<br>
+Primera versión del backend:<br>
+[![back.jpg](https://i.postimg.cc/V66SMN5Q/back.jpg)](https://postimg.cc/nsycfpv0)<br>
 ### **5.2.3.6. Services Documentation Evidence for Sprint Review**<br>
 En este sprint, hemos realizado la primera versión del back-end, por lo que presentamos la documentación del back-end.<br>
+[![Whats-App-Image-2025-06-20-at-6-22-38-PM.jpg](https://i.postimg.cc/25P5fcHM/Whats-App-Image-2025-06-20-at-6-22-38-PM.jpg)](https://postimg.cc/67fKr0xf)<br>
+[![Whats-App-Image-2025-06-20-at-6-22-53-PM.jpg](https://i.postimg.cc/fyHnMkzy/Whats-App-Image-2025-06-20-at-6-22-53-PM.jpg)](https://postimg.cc/QKWnb8WZ)<br>
+[![Whats-App-Image-2025-06-20-at-5-19-07-PM-1.jpg](https://i.postimg.cc/cCyCcFtR/Whats-App-Image-2025-06-20-at-5-19-07-PM-1.jpg)](https://postimg.cc/G8KbLJQt)<br>
+<br>
+[![Whats-App-Image-2025-06-20-at-5-19-07-PM.jpg](https://i.postimg.cc/qByNFPrV/Whats-App-Image-2025-06-20-at-5-19-07-PM.jpg)](https://postimg.cc/t7RRZm72)<br>
+<br>
+[![Whats-App-Image-2025-06-20-at-5-19-06-PM-1.jpg](https://i.postimg.cc/285V5Vvm/Whats-App-Image-2025-06-20-at-5-19-06-PM-1.jpg)](https://postimg.cc/vDpQq83S)<br>
+<br>
+[![Whats-App-Image-2025-06-20-at-5-19-06-PM.jpg](https://i.postimg.cc/ZKk4GncV/Whats-App-Image-2025-06-20-at-5-19-06-PM.jpg)](https://postimg.cc/14Kk69bq)<br>
+<br>
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**<br>
-En este sprint, hemos realizado el despliegue de la primera versión del back-end.
-Para el despliegue hemos usado “”, <br>
-
+En este sprint, hemos realizado la primera versión del backend, pero aún no se encuentra desplegada, por lo que no presentamos evidencia del despliegue.<br>
 ### **5.2.3.8. Team Collaboration Insights during Sprint**<br>
-
-
+Insights front-end:<br>
+[![insights-front.jpg](https://i.postimg.cc/6pvFWVhF/insights-front.jpg)](https://postimg.cc/9DcL17KB)<br>
+Insights back-end:<br>
+[![insights-back.jpg](https://i.postimg.cc/QMn6cHSc/insights-back.jpg)](https://postimg.cc/XZdcbNRv)<br>
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
 ### **5.3.2. Registro de Entrevistas**
@@ -1601,11 +1636,13 @@ Para el despliegue hemos usado “”, <br>
 
 ## **5.4. Video About-the-Product**
 Video sobre la landing page: https://upcedupe-my.sharepoint.com/personal/u20211a789_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a789%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideoAboutTheLandingPage%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2cddd86%2Dd230%2D46ff%2Da1d3%2D896e159b72a3<br>
+Video sobre la web app: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a789_upc_edu_pe/EWIkyVprmgJBtPeFYQ3xzpYBF3GiPetvcGkhTn-5IC8Yig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ug4XyV<br>
 
 # **Conclusiones**
 # **Conclusiones y recomendaciones**
 
-# **Video About-the-Team**
+# **Video About-the-Team**<br>
+
 
 # **Bibliografía**
 
