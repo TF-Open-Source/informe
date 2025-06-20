@@ -1538,6 +1538,61 @@ Para el despliegue hemos usado “Netlify”, una plataforma de alojamiento web 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
 [![insights-sprint-2.jpg](https://i.postimg.cc/7YsCZR3d/insights-sprint-2.jpg)](https://postimg.cc/LnP4yN03)<br>
 
+## **5.2.3. Sprint 3**
+### **5.2.3.1. Sprint Planning 3**<br>
+A continuación, presentamos el Sprint 3 de nuestro proyecto, el cual está enfocado en la planificación y desarrollo de la landing page.<br>
+| Sprint #                                                                                                   | Sprint 3 |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|
+| Sprint Planning Background                   |         |
+|Date                     | 2025-06-07        |  
+| Time | 06:00 PM         | 
+| Location      | Virtual - Discord        |                                 |
+| Prepared By                              | Erick Cueva         | 
+|Attendees                                 | Travezaño Patiño, Eduard Gedeon / Rengifo Lozano, David / Pachas Chavez. Alejandro Alberto / Estrada Cajamune. Abraham Andrés / Cueva Elera, Erick Armando                |
+|Sprint 2 Review Summary                   |Se implementó la primera versión del front-end y de desplegó en netlify. Además, se termino la landing page en su totalidad.                        |
+|Sprint 2 Retrospective Summary|En este sprint 3 trabajaremos lo que es la primera versión del back-end y se desarrollará la segunda versión del front-end.         |
+|Sprint Goal & User Stories|               |
+|Sprint 3 Goal              |Our focus is on desarrollar y desplegar la primera version de el back-end de la app web We believe it delivers interés y curiosidad to personas que estén interesadas en un software de gestión de obras para empresas medianas This will be confirmed when las personas interesadas esten espectantes a la siguiente version de nuestra app web |
+|Sprint 3 Velocity|20 |
+|Sum of Story Points|20 |
+### **5.2.3.2. Aspect Leaders and Collaborators**<br>
+| Team member| GitHub Username | Desarrollo de la vista inicial|Desarrollo de la vista de personal |Desarrollo del sistema de autenticación IAM | 
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|
+|Cueva Elera, Erick Armando                     | ECueva1809        |L|L|C|
+|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | C | C |
+|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| L |
+|Rengifo Lozano, David                        |   DavidRengifoLoz           | C | C | C |
+|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |C  | C |
+
+### **5.2.3.3. Sprint Backlog 3**<br>
+| Sprint #                                                                                                   | Sprint 3 | | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|-|
+| User Story                   | Work-Item/Task        | | | | | | |
+|Id            | Title        |Id|Title|Description|Estimation|Assigned To|Status|
+|              | Desarrollo de la vista inicial| W01 | Desarrollo de la vista inicial|Desarrollar la seccion de la vista inicial de la web app  | 2 |  Cueva Elera, Erick Armando  | in progress | 
+|               | Desarrollo de la vista de personal| W02 |Desarrollo de la vista de personal  |Desarrollar la vista con las imagenes e información del historial  | 2 | Cueva Elera, Erick Armando | in progress |
+|              | Desarrollo autenticación IAM| W03 |Desarrollo autenticación IAM  | Desarrollar el sistema de atutenticación IAM | 4 | Pachas Chavez. Alejandro Alberto | in progress |
+
+### **5.2.3.4. Development Evidence for Sprint Review**<br>
+En este Sprint, hemos desarrollado y desplegado la primera versión del back-end. Además, el desarrollo de la segunda versión de el front-end. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
+|Repository|Branch|Commid Id|Commit Message| Commit Message Body|Commited on (Date)|
+|-           |  -    |    -    |     -         |       -             |   -               |
+|TF-Open-Source/IronGrid---Landing-Page           |master      |53e685c15d1637b374d965e1674336c870a62e31 |Landing page| |22/04/2025|
+
+### **5.2.3.5. Execution Evidence for Sprint Review**<br>
+En este Sprint, desarrollamos la primera versión del back-end. Además, desarrollamos la segunda versión de el front-end de la Web App<br>
+Vista de nuestra pagina inicial:<br>
+
+Vista de nuestra sección de personal:<br>
+
+### **5.2.3.6. Services Documentation Evidence for Sprint Review**<br>
+En este sprint, hemos realizado la primera versión del back-end, por lo que presentamos la documentación del back-end.<br>
+### **5.2.3.7. Software Deployment Evidence for Sprint Review**<br>
+En este sprint, hemos realizado el despliegue de la primera versión del back-end.
+Para el despliegue hemos usado “”, <br>
+
+### **5.2.3.8. Team Collaboration Insights during Sprint**<br>
+
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
