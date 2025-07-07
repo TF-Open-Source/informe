@@ -1722,7 +1722,39 @@ Insights front-end:<br>
 Insights back-end:<br>
 [![insights-back.jpg](https://i.postimg.cc/QMn6cHSc/insights-back.jpg)](https://postimg.cc/XZdcbNRv)<br>
 ## **5.3. Validation Interviews**
-### **5.3.1. Diseño de Entrevistas**
+### **5.3.1. Diseño de Entrevistas**<br>
+-SEGMENTO JEFE DE OBRA<br>
+-ELEMENTOS A INCLUIR EN LA VALIDACIÓN:<br>
+1.- Landing Page<br>
+2.- Aplicación Web<br>
+-USERS FLOWS:<br>
+#A. REGISTRO DE USUARIO:<br>
+1. Ingresar a la aplicación web<br>
+2. Presionar la opción de "Registrarse"<br>
+3. Completar datos y confirmar<br>
+4. Ver mensaje de éxito<br>
+<br>
+#B. INICIAR SESIÓN:<br>
+1. Ingresar a la aplicación web<br>
+2. Presionar la opción de "Iniciar sesión"<br>
+3. Completar datos y confirmar<br>
+4. Ver la sesión iniciada<br>
+<br>
+#C. AÑADIR TAREA:<br>
+1. Ir a la vista de tareas<br>
+2. Presionar "Añadir tarea"<br>
+3. Completar el formulario y confirmar<br>
+4. Ver la tarea registrada con éxito<br>
+<br>
+#D. Ver trabajadores<br>
+1. Ir a la vista trabajadores<br>
+2. Verificar si se observan los trabajadores registrados<br>
+<br>
+#E. Añadir trabajadores<br>
+1. Ir a la vista trabajadores<br>
+2. Presionar en añadir trabajador<br>
+3. Completar los campos y confirmar<br>
+4. Verificar al trabajador añadido<br>
 ### **5.3.2. Registro de Entrevistas**
 ### **5.3.3. Evaluaciones según heurísticas**
 
