@@ -1631,7 +1631,7 @@ Insights back-end:<br>
 [![insights-back.jpg](https://i.postimg.cc/QMn6cHSc/insights-back.jpg)](https://postimg.cc/XZdcbNRv)<br>
 
 ## **5.2.4. Sprint 4**
-### **5.2.4.1. Sprint Planning 3**<br>
+### **5.2.4.1. Sprint Planning 4**<br>
 A continuación, presentamos el Sprint 4 de nuestro proyecto, el cual es el sprint final, en este sprint terminamos de desarrollar el frontend y el backend, además de realizar la implementación total de ambos.<br>
 | Sprint #                                                                                                   | Sprint 4 |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -1648,27 +1648,27 @@ A continuación, presentamos el Sprint 4 de nuestro proyecto, el cual es el spri
 |Sprint 4 Velocity|20 |
 |Sum of Story Points|20 |
 ### **5.2.4.2. Aspect Leaders and Collaborators**<br>
-| Team member| GitHub Username | Implementación del frontend con el backend en el apartado de login y register|Implementación de frontend y backend en el apartado de tasks |Desarrollo del sistema de autenticación IAM | Desarrollo de endpoint tasks| Implementación de i18n|
+| Team member| GitHub Username | Implementación del frontend con el backend en el apartado de login y register|Implementación de frontend y backend en el apartado de tasks |Implementación de frontend y backend en el apartado de trabajadores | Despliegue frontend| Despliegue backend|
 |-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|
-|Cueva Elera, Erick Armando                     | ECueva1809        |L|L|C|C|C|
-|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | C | C | C|L|
-|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| L | C|C|
-|Rengifo Lozano, David                        |   DavidRengifoLoz           | C | C | C | L|C|
-|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |C  | C | L|C|
+|Cueva Elera, Erick Armando                     | ECueva1809        |L|C|C|C|L|
+|Estrada Cajamune. Abraham Andrés                        |   Abraham0310           | C | L | L | C|C|
+|Pachas Chavez. Alejandro Alberto                        |   Alejandropch           | C |  C| C | C|C|
+|Rengifo Lozano, David                        |   DavidRengifoLoz           | C | C | C | C|C|
+|Travezaño Patiño, Eduard Gedeon                        |   EduardTrave           | C |L  | L | L|C|
 
 ### **5.2.4.3. Sprint Backlog 4**<br>
 | Sprint #                                                                                                   | Sprint 4 | | | | | | |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------|-|-|-|-|-|-|
 | User Story                   | Work-Item/Task        | | | | | | |
 |Id            | Title        |Id|Title|Description|Estimation|Assigned To|Status|
-|              | Desarrollo de la vista inicial| W01 | Desarrollo de la vista inicial|Desarrollar la seccion de la vista inicial de la web app  | 2 |  Cueva Elera, Erick Armando  | in progress | 
-|               | Desarrollo de la vista de personal| W02 |Desarrollo de la vista de personal  |Desarrollar la vista con las imagenes e información del historial  | 2 | Cueva Elera, Erick Armando | in progress |
-|              | Desarrollo autenticación IAM| W03 |Desarrollo autenticación IAM  | Desarrollar el sistema de atutenticación IAM | 4 | Pachas Chavez. Alejandro Alberto | in progress |
-|              | Desarrollo del endpoint de tasks| W04 |Desarrollo del endpoint de tasks  | Desarrollar el crud de tasks | 4 |Rengifo Lozano, David. Travezaño Patiño, Eduard Gedeon   | in progress |
-|              | Implementación de i18n| W05 |Implementación de i18n  | Implementar i18n en toda la interfaz de front-end | 4 |Estrada Cajamune. Abraham Andrés   | in progress |
+|              | Implementación login y register en frontend y backend| W01 | Implementar frontend y backend|Implementar el frontend y backend en el login y registe  | 4 |  Cueva Elera, Erick Armando  | done | 
+|               | Implementacion tasks en frontend y backend| W02 |Implementar frontend y backend  |Implementar frontend y backend en tasks  | 3 | Travezaño Patiño, Eduard Gedeon | done |
+|              |Implementación trabajadores en frontend y backend| W03 |Implementar frontend y backend  |Implementar frontend y backend en trabajadores | 4 | Estrada Cajamune. Abraham Andrés | done |
+|              | Despliegue frontend| W04 |Despliegue frontend  | Desplegar frontend en netlify | 1 |Estrada Cajamune. Abraham Andrés. Travezaño Patiño, Eduard Gedeon   | done |
+|              | Despliegue backend| W05 |Despliegue backend  | Desplegar backend en railway | 4 |Cueva Elera, Erick Armando   | done |
 
 ### **5.2.3.4. Development Evidence for Sprint Review**<br>
-En este Sprint, hemos desarrollado la primera versión del back-end. Además, el desarrollo de la segunda versión de el front-end. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
+En este Sprint, hemos desarrollado la segunda versión del back-end. A continuación, presentamos nuestro cuadro de commits realizados durante el Sprint:<br>
 |Repository|Branch|Commid Id|Commit Message| Commit Message Body|Commited on (Date)|
 |-           |  -    |    -    |     -         |       -             |   -               |
 |TF-Open-Source/BuildPlanning-backend|main|69f66222f9699f28a71f5876ab46515dcd500f6a |Initial commit| |17/06/25|
@@ -1692,35 +1692,27 @@ En este Sprint, hemos desarrollado la primera versión del back-end. Además, el
 |TF-Open-Source/BuildPlanner-frontend|master|88a44531bade7e53ccc81630133fb17f60584987 |Implement i18n all project| |20/06/25|
 
 ### **5.2.3.5. Execution Evidence for Sprint Review**<br>
-En este Sprint, desarrollamos la primera versión del back-end. Además, desarrollamos la segunda versión de el front-end de la Web App<br>
-Vista de nuestra pagina inicial:<br>
-[![initial.jpg](https://i.postimg.cc/NMNV0d27/initial.jpg)](https://postimg.cc/7G2XsMVf)<br>
-Vista de nuestra sección de personal:<br>
-[![personal.jpg](https://i.postimg.cc/j2082Bdf/personal.jpg)](https://postimg.cc/Vrg9HGts)<br>
-[![personal2.jpg](https://i.postimg.cc/858dmMQQ/personal2.jpg)](https://postimg.cc/t15VX142)<br>
-Implementación de i18n:<br>
-[![i18n.jpg](https://i.postimg.cc/Dy79cbnX/i18n.jpg)](https://postimg.cc/JtdYr0yr)<br>
-Primera versión del backend:<br>
-[![back.jpg](https://i.postimg.cc/V66SMN5Q/back.jpg)](https://postimg.cc/nsycfpv0)<br>
+En este sprint desarrollamos la segunda versión del backend. Además realizamos la implementación del frontend con el backend<br>
+[![evidencia-front-1.jpg](https://i.postimg.cc/jqGz7q2L/evidencia-front-1.jpg)](https://postimg.cc/yWygqHFH)<br>
+[![evidencia-front-2.jpg](https://i.postimg.cc/B6PjSDxN/evidencia-front-2.jpg)](https://postimg.cc/JDmrKsYB)<br>
+[![evidencia-front-3.jpg](https://i.postimg.cc/3NCJNZWj/evidencia-front-3.jpg)](https://postimg.cc/YL0wyY6j)<br>
+[![evidencia-front-4.jpg](https://i.postimg.cc/4xnsRGvQ/evidencia-front-4.jpg)](https://postimg.cc/DSVt1tMS)<br>
+[![Whats-App-Image-2025-07-07-at-6-06-33-PM.jpg](https://i.postimg.cc/pXGjQD2V/Whats-App-Image-2025-07-07-at-6-06-33-PM.jpg)](https://postimg.cc/D8Gmn4JR)<br>
 ### **5.2.3.6. Services Documentation Evidence for Sprint Review**<br>
-En este sprint, hemos realizado la primera versión del back-end, por lo que presentamos la documentación del back-end.<br>
-[![Whats-App-Image-2025-06-20-at-6-22-38-PM.jpg](https://i.postimg.cc/25P5fcHM/Whats-App-Image-2025-06-20-at-6-22-38-PM.jpg)](https://postimg.cc/67fKr0xf)<br>
-[![Whats-App-Image-2025-06-20-at-6-22-53-PM.jpg](https://i.postimg.cc/fyHnMkzy/Whats-App-Image-2025-06-20-at-6-22-53-PM.jpg)](https://postimg.cc/QKWnb8WZ)<br>
-[![Whats-App-Image-2025-06-20-at-5-19-07-PM-1.jpg](https://i.postimg.cc/cCyCcFtR/Whats-App-Image-2025-06-20-at-5-19-07-PM-1.jpg)](https://postimg.cc/G8KbLJQt)<br>
-<br>
-[![Whats-App-Image-2025-06-20-at-5-19-07-PM.jpg](https://i.postimg.cc/qByNFPrV/Whats-App-Image-2025-06-20-at-5-19-07-PM.jpg)](https://postimg.cc/t7RRZm72)<br>
-<br>
-[![Whats-App-Image-2025-06-20-at-5-19-06-PM-1.jpg](https://i.postimg.cc/285V5Vvm/Whats-App-Image-2025-06-20-at-5-19-06-PM-1.jpg)](https://postimg.cc/vDpQq83S)<br>
-<br>
-[![Whats-App-Image-2025-06-20-at-5-19-06-PM.jpg](https://i.postimg.cc/ZKk4GncV/Whats-App-Image-2025-06-20-at-5-19-06-PM.jpg)](https://postimg.cc/14Kk69bq)<br>
-<br>
+En este sprint, hemos realizado la segunda versión del back-end, por lo que presentamos la documentación del back-end.<br>
+[![docu-1.jpg](https://i.postimg.cc/6p3txZJP/docu-1.jpg)](https://postimg.cc/WhQQMh4m)<br>
+[![docu-2.jpg](https://i.postimg.cc/5t4vVnNV/docu-2.jpg)](https://postimg.cc/HrNj00yZ)<br>
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**<br>
-En este sprint, hemos realizado la primera versión del backend, pero aún no se encuentra desplegada, por lo que no presentamos evidencia del despliegue.<br>
+En este sprint, hemos realizado la segunda versión del backend junto con su despliegue en railway: https://buildplanning-backend-production.up.railway.app/ <br>
+[![despliegue-back-1.jpg](https://i.postimg.cc/yYcrJb1C/despliegue-back-1.jpg)](https://postimg.cc/cr1c2TtF)<br>
+[![despliegue-back-2.jpg](https://i.postimg.cc/7PTKcWTJ/despliegue-back-2.jpg)](https://postimg.cc/hhc8QMsK)<br>
+Además, hemos desplegado el frontend en netlify: https://buildplanninggrid.netlify.app/ <br>
+[![DESPLIEGUE-FRONT.jpg](https://i.postimg.cc/gc5fLh38/DESPLIEGUE-FRONT.jpg)](https://postimg.cc/Yj6XJhnC)<br>
 ### **5.2.3.8. Team Collaboration Insights during Sprint**<br>
 Insights front-end:<br>
-[![insights-front.jpg](https://i.postimg.cc/6pvFWVhF/insights-front.jpg)](https://postimg.cc/9DcL17KB)<br>
+[![insights-front.jpg](https://i.postimg.cc/7LtyBWJQ/insights-front.jpg)](https://postimg.cc/cK3jCTmQ)<br>
 Insights back-end:<br>
-[![insights-back.jpg](https://i.postimg.cc/QMn6cHSc/insights-back.jpg)](https://postimg.cc/XZdcbNRv)<br>
+[![insights-backs.jpg](https://i.postimg.cc/NGTWTMDn/insights-backs.jpg)](https://postimg.cc/4nfLRXrv)<br>
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**<br>
 -SEGMENTO JEFE DE OBRA<br>
@@ -1755,8 +1747,8 @@ Insights back-end:<br>
 2. Presionar en añadir trabajador<br>
 3. Completar los campos y confirmar<br>
 4. Verificar al trabajador añadido<br>
-### **5.3.2. Registro de Entrevistas**
-### **5.3.3. Evaluaciones según heurísticas**
+### **5.3.2. Registro de Entrevistas**<br>
+
 
 ## **5.4. Video About-the-Product**
 Video sobre la landing page: https://upcedupe-my.sharepoint.com/personal/u20211a789_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a789%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideoAboutTheLandingPage%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2cddd86%2Dd230%2D46ff%2Da1d3%2D896e159b72a3<br>
